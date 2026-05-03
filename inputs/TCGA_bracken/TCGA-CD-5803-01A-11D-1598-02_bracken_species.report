@@ -1,0 +1,77 @@
+100.00	7556	0	R	1	root
+100.00	7556	0	R1	131567	  cellular organisms
+96.35	7279	0	D	2759	    Eukaryota
+96.35	7279	0	D1	33154	      Opisthokonta
+96.35	7279	0	K	33208	        Metazoa
+96.35	7279	0	K1	6072	          Eumetazoa
+96.35	7279	0	K2	33213	            Bilateria
+96.35	7279	0	K3	33511	              Deuterostomia
+96.35	7279	0	P	7711	                Chordata
+96.35	7279	0	P1	89593	                  Craniata
+96.35	7279	0	P2	7742	                    Vertebrata
+96.35	7279	0	P3	7776	                      Gnathostomata
+96.35	7279	0	P4	117570	                        Teleostomi
+96.35	7279	0	P5	117571	                          Euteleostomi
+96.35	7279	0	P6	8287	                            Sarcopterygii
+96.35	7279	0	P7	1338369	                              Dipnotetrapodomorpha
+96.35	7279	0	P8	32523	                                Tetrapoda
+96.35	7279	0	P9	32524	                                  Amniota
+96.35	7279	0	C	40674	                                    Mammalia
+96.35	7279	0	C1	32525	                                      Theria
+96.35	7279	0	C2	9347	                                        Eutheria
+96.35	7279	0	C3	1437010	                                          Boreoeutheria
+96.35	7279	0	C4	314146	                                            Euarchontoglires
+96.35	7279	0	O	9443	                                              Primates
+96.35	7279	0	O1	376913	                                                Haplorrhini
+96.35	7279	0	O2	314293	                                                  Simiiformes
+96.35	7279	0	O3	9526	                                                    Catarrhini
+96.35	7279	0	O4	314295	                                                      Hominoidea
+96.35	7279	0	F	9604	                                                        Hominidae
+96.35	7279	0	F1	207598	                                                          Homininae
+96.35	7279	0	G	9605	                                                            Homo
+96.35	7279	7279	S	9606	                                                              Homo sapiens
+3.65	276	0	D	2	    Bacteria
+3.29	248	0	D1	1783272	      Terrabacteria group
+3.21	242	0	P	1239	        Bacillota
+2.98	225	0	C	91061	          Bacilli
+2.98	225	0	O	186826	            Lactobacillales
+2.87	216	0	F	33958	              Lactobacillaceae
+1.54	116	0	G	1578	                Lactobacillus
+1.48	111	111	S	1584	                  Lactobacillus delbrueckii
+0.06	4	4	S	1587	                  Lactobacillus helveticus
+1.33	100	0	G	2742598	                Limosilactobacillus
+1.21	91	91	S	1613	                  Limosilactobacillus fermentum
+0.13	9	9	S	47493	                  Limosilactobacillus panis
+0.11	8	0	F	1300	              Streptococcaceae
+0.07	5	0	G	1301	                Streptococcus
+0.07	5	5	S	28037	                  Streptococcus mitis
+0.04	2	0	G	1357	                Lactococcus
+0.04	2	2	S	1358	                  Lactococcus lactis
+0.23	17	0	C	186801	          Clostridia
+0.23	17	0	O	186802	            Eubacteriales
+0.23	17	0	F	31979	              Clostridiaceae
+0.23	17	0	G	1485	                Clostridium
+0.23	17	17	S	1491	                  Clostridium botulinum
+0.08	6	0	P	201174	        Actinomycetota
+0.08	6	0	C	1760	          Actinomycetes
+0.08	6	0	O	85009	            Propionibacteriales
+0.08	6	0	F	31957	              Propionibacteriaceae
+0.08	6	0	G	1912216	                Cutibacterium
+0.08	6	6	S	1747	                  Cutibacterium acnes
+0.33	25	0	D1	1783270	      FCB group
+0.33	25	0	D2	68336	        Bacteroidota/Chlorobiota group
+0.33	25	0	P	976	          Bacteroidota
+0.33	25	0	C	200643	            Bacteroidia
+0.33	25	0	O	171549	              Bacteroidales
+0.33	25	0	F	171552	                Prevotellaceae
+0.33	25	0	G	838	                  Prevotella
+0.17	13	13	S	1177574	                    Prevotella jejuni
+0.10	7	7	S	28132	                    Prevotella melaninogenica
+0.03	2	2	S	470565	                    Prevotella histicola
+0.03	2	2	S	28133	                    Prevotella nigrescens
+0.03	2	0	P	29547	      Campylobacterota
+0.03	2	0	C	3031852	        Epsilonproteobacteria
+0.03	2	0	O	213849	          Campylobacterales
+0.03	2	0	F	72293	            Helicobacteraceae
+0.03	2	0	G	209	              Helicobacter
+0.03	2	2	S	210	                Helicobacter pylori

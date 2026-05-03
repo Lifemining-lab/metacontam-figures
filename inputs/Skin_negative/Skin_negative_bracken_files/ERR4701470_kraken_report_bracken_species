@@ -1,0 +1,84 @@
+100.00	353	0	R	1	root
+100.00	353	0	R1	131567	  cellular organisms
+100.00	353	0	D	2	    Bacteria
+96.57	340	0	P	1224	      Pseudomonadota
+87.78	309	0	C	28216	        Betaproteobacteria
+87.78	309	0	O	80840	          Burkholderiales
+75.03	264	0	F	119060	            Burkholderiaceae
+75.03	264	0	G	106589	              Cupriavidus
+70.84	250	250	S	82633	                Cupriavidus pauculus
+2.10	7	0	G1	2640874	                unclassified Cupriavidus
+2.10	7	7	S	2839983	                  Cupriavidus sp. EM10
+2.10	7	7	S	119219	                Cupriavidus metallidurans
+4.87	17	0	F	80864	            Comamonadaceae
+2.16	7	0	G	34072	              Variovorax
+2.16	7	0	G1	663243	                unclassified Variovorax
+2.16	7	7	S	207745	                  Variovorax sp. WDL1
+1.51	5	0	G	683756	              Kinneretia
+1.51	5	0	G1	2632542	                unclassified Kinneretia
+1.51	5	5	S	2714952	                  Kinneretia sp. DAIF2
+1.21	4	0	G	174951	              Ramlibacter
+1.21	4	4	S	94132	                Ramlibacter tataouinensis
+4.38	15	0	F	2975441	            Sphaerotilaceae
+1.31	4	0	G	391952	              Aquincola
+1.31	4	4	S	391953	                Aquincola tertiaricarbonis
+1.25	4	0	G	65047	              Mitsuaria
+1.25	4	0	G1	2648776	                unclassified Mitsuaria
+1.25	4	4	S	1658665	                  Mitsuaria sp. 7
+0.63	2	0	G	28067	              Rubrivivax
+0.63	2	2	S	28068	                Rubrivivax gelatinosus
+0.61	2	0	G	93681	              Roseateles
+0.61	2	2	S	76731	                Roseateles depolymerans
+0.59	2	0	G	644355	              Inhella
+0.59	2	2	S	392593	                Inhella inkyongensis
+3.49	12	0	O1	224471	            Burkholderiales genera incertae sedis
+3.49	12	0	G	318147	              Paucibacter
+1.76	6	0	G1	2642959	                unclassified Paucibacter
+1.17	4	4	S	1768242	                  Paucibacter sp. KCTC 42545
+0.59	2	2	S	3019553	                  Paucibacter sp. S2-9
+1.74	6	6	S	2070761	                Paucibacter aquatile
+8.79	31	0	C	28211	        Alphaproteobacteria
+5.03	17	0	O	204458	          Caulobacterales
+5.03	17	0	F	76892	            Caulobacteraceae
+5.03	17	0	G	75	              Caulobacter
+1.94	6	6	S	155892	                Caulobacter vibrioides
+1.55	5	5	S	88688	                Caulobacter segnis
+0.93	3	3	S	1679497	                Caulobacter flavus
+0.61	2	2	S	2708539	                Caulobacter soli
+3.18	11	0	O	356	          Hyphomicrobiales
+2.31	8	0	F	41294	            Nitrobacteraceae
+2.31	8	0	G	374	              Bradyrhizobium
+1.16	4	0	G1	2631580	                unclassified Bradyrhizobium
+1.16	4	4	S	288000	                  Bradyrhizobium sp. BTAi1
+1.14	4	4	S	858423	                Bradyrhizobium arachidis
+0.87	3	0	F	69277	            Phyllobacteriaceae
+0.87	3	0	G	68287	              Mesorhizobium
+0.87	3	0	G1	325217	                unclassified Mesorhizobium
+0.87	3	3	S	2589903	                  Mesorhizobium sp. B2-8-5
+0.58	2	0	O	204457	          Sphingomonadales
+0.58	2	0	F	41297	            Sphingomonadaceae
+0.58	2	0	G	165696	              Novosphingobium
+0.58	2	2	S	2896849	                Novosphingobium kaempferiae
+2.86	10	0	D1	1783272	      Terrabacteria group
+2.00	7	0	P	201174	        Actinomycetota
+2.00	7	0	C	1760	          Actinomycetes
+1.14	4	0	O	85007	            Mycobacteriales
+1.14	4	0	F	1653	              Corynebacteriaceae
+1.14	4	0	G	1716	                Corynebacterium
+1.14	4	4	S	38286	                  Corynebacterium afermentans
+0.85	3	0	O	85009	            Propionibacteriales
+0.85	3	0	F	31957	              Propionibacteriaceae
+0.85	3	0	G	1912216	                Cutibacterium
+0.85	3	3	S	1747	                  Cutibacterium acnes
+0.87	3	0	P	1239	        Bacillota
+0.87	3	0	C	91061	          Bacilli
+0.87	3	0	O	1385	            Bacillales
+0.87	3	0	F	90964	              Staphylococcaceae
+0.87	3	0	G	1279	                Staphylococcus
+0.87	3	3	S	1290	                  Staphylococcus hominis
+0.57	2	0	P	2818505	      Myxococcota
+0.57	2	0	P1	3031711	        Polyangia
+0.57	2	0	O	3031712	          Polyangiales
+0.57	2	0	F	1055686	            Sandaracinaceae
+0.57	2	0	G	1055688	              Sandaracinus
+0.57	2	2	S	927083	                Sandaracinus amylolyticus

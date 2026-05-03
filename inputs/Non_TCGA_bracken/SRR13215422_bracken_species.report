@@ -1,0 +1,49 @@
+100.00	1780162	0	R	1	root
+100.00	1780160	0	R1	131567	  cellular organisms
+100.00	1780146	0	D	2759	    Eukaryota
+100.00	1780146	0	D1	33154	      Opisthokonta
+100.00	1780146	0	K	33208	        Metazoa
+100.00	1780146	0	K1	6072	          Eumetazoa
+100.00	1780146	0	K2	33213	            Bilateria
+100.00	1780146	0	K3	33511	              Deuterostomia
+100.00	1780146	0	P	7711	                Chordata
+100.00	1780146	0	P1	89593	                  Craniata
+100.00	1780146	0	P2	7742	                    Vertebrata
+100.00	1780146	0	P3	7776	                      Gnathostomata
+100.00	1780146	0	P4	117570	                        Teleostomi
+100.00	1780146	0	P5	117571	                          Euteleostomi
+100.00	1780146	0	P6	8287	                            Sarcopterygii
+100.00	1780146	0	P7	1338369	                              Dipnotetrapodomorpha
+100.00	1780146	0	P8	32523	                                Tetrapoda
+100.00	1780146	0	P9	32524	                                  Amniota
+100.00	1780146	0	C	40674	                                    Mammalia
+100.00	1780146	0	C1	32525	                                      Theria
+100.00	1780146	0	C2	9347	                                        Eutheria
+100.00	1780146	0	C3	1437010	                                          Boreoeutheria
+100.00	1780146	0	C4	314146	                                            Euarchontoglires
+100.00	1780146	0	O	9443	                                              Primates
+100.00	1780146	0	O1	376913	                                                Haplorrhini
+100.00	1780146	0	O2	314293	                                                  Simiiformes
+100.00	1780146	0	O3	9526	                                                    Catarrhini
+100.00	1780146	0	O4	314295	                                                      Hominoidea
+100.00	1780146	0	F	9604	                                                        Hominidae
+100.00	1780146	0	F1	207598	                                                          Homininae
+100.00	1780146	0	G	9605	                                                            Homo
+100.00	1780146	1780146	S	9606	                                                              Homo sapiens
+0.00	13	0	D	2	    Bacteria
+0.00	13	0	P	32066	      Fusobacteriota
+0.00	13	0	C	203490	        Fusobacteriia
+0.00	13	0	O	203491	          Fusobacteriales
+0.00	13	0	F	203492	            Fusobacteriaceae
+0.00	13	0	G	848	              Fusobacterium
+0.00	13	13	S	849	                Fusobacterium gonidiaformans
+0.00	2	0	D	10239	  Viruses
+0.00	2	0	D1	2731341	    Duplodnaviria
+0.00	2	0	K	2731360	      Heunggongvirae
+0.00	2	0	P	2731361	        Peploviricota
+0.00	2	0	C	2731363	          Herviviricetes
+0.00	2	0	O	548681	            Herpesvirales
+0.00	2	0	F	10292	              Herpesviridae
+0.00	2	0	F1	10374	                Gammaherpesvirinae
+0.00	2	0	G	10375	                  Lymphocryptovirus
+0.00	2	2	S	3050299	                    Lymphocryptovirus humangamma4

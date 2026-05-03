@@ -1,0 +1,71 @@
+100.00	181	0	R	1	root
+100.00	181	0	R1	131567	  cellular organisms
+100.00	181	0	D	2	    Bacteria
+55.44	100	0	D1	1783272	      Terrabacteria group
+55.44	100	0	P	1239	        Bacillota
+54.31	98	0	C	186801	          Clostridia
+54.31	98	0	O	186802	            Eubacteriales
+39.44	71	0	F	186803	              Lachnospiraceae
+19.42	35	0	G	572511	                Blautia
+9.58	17	17	S	418240	                  Blautia wexlerae
+4.17	7	0	G1	2648079	                  unclassified Blautia
+4.17	7	7	S	2479767	                    Blautia sp. SC05B48
+5.66	10	10	S	40520	                  Blautia obeum
+6.92	12	0	G	207244	                Anaerostipes
+6.92	12	12	S	649756	                  Anaerostipes hadrus
+3.31	5	0	G	841	                Roseburia
+2.04	3	3	S	166486	                  Roseburia intestinalis
+1.27	2	2	S	301301	                  Roseburia hominis
+3.03	5	0	G	2569097	                Anaerobutyricum
+3.03	5	5	S	39488	                  Anaerobutyricum hallii
+2.90	5	0	G	2316020	                Mediterraneibacter
+2.90	5	5	S	46228	                  [Ruminococcus] lactaris
+1.36	2	0	G	33042	                Coprococcus
+1.36	2	2	S	410072	                  Coprococcus comes
+1.29	2	0	G	189330	                Dorea
+1.29	2	2	S	88431	                  Dorea longicatena
+1.22	2	0	G	2944193	                Simiaoa
+1.22	2	2	S	2763672	                  Simiaoa sunii
+14.86	26	0	F	216572	              Oscillospiraceae
+7.31	13	0	G	216851	                Faecalibacterium
+3.06	5	0	G1	2646395	                  unclassified Faecalibacterium
+3.06	5	5	S	2929493	                    Faecalibacterium sp. I3-3-89
+4.25	7	7	S	853	                  Faecalibacterium prausnitzii
+5.69	10	0	G	1263	                Ruminococcus
+4.00	7	7	S	2564099	                  Ruminococcus bovis
+1.69	3	3	S	1160721	                  Ruminococcus bicirculans (ex Wegman et al. 2014)
+1.87	3	0	G	946234	                Flavonifractor
+1.87	3	3	S	292800	                  Flavonifractor plautii
+1.13	2	0	C	526524	          Erysipelotrichia
+1.13	2	0	O	526525	            Erysipelotrichales
+1.13	2	0	F	128827	              Erysipelotrichaceae
+1.13	2	0	G	2678885	                Faecalibacillus
+1.13	2	2	S	1982626	                  Faecalibacillus intestinalis
+36.78	66	0	D1	1783270	      FCB group
+36.78	66	0	D2	68336	        Bacteroidota/Chlorobiota group
+36.78	66	0	P	976	          Bacteroidota
+36.78	66	0	C	200643	            Bacteroidia
+36.78	66	0	O	171549	              Bacteroidales
+31.51	57	0	F	815	                Bacteroidaceae
+23.79	43	0	G	816	                  Bacteroides
+8.27	14	14	S	246787	                    Bacteroides cellulosilyticus
+9.75	17	17	S	820	                    Bacteroides uniformis
+1.72	3	3	S	329854	                    Bacteroides intestinalis
+2.14	3	3	S	28111	                    Bacteroides eggerthii
+1.91	3	3	S	371601	                    Bacteroides xylanisolvens
+7.73	13	0	G	909656	                  Phocaeicola
+7.73	13	13	S	821	                    Phocaeicola vulgatus
+3.47	6	0	F	2005525	                Tannerellaceae
+3.47	6	0	G	375288	                  Parabacteroides
+2.12	3	3	S	823	                    Parabacteroides distasonis
+1.34	2	2	S	46503	                    Parabacteroides merdae
+1.80	3	0	F	171550	                Rikenellaceae
+1.80	3	0	G	239759	                  Alistipes
+1.80	3	3	S	2585118	                    Alistipes communis
+7.79	14	0	D1	1783257	      PVC group
+7.79	14	0	P	74201	        Verrucomicrobiota
+7.79	14	0	C	203494	          Verrucomicrobiae
+7.79	14	0	O	48461	            Verrucomicrobiales
+7.79	14	0	F	1647988	              Akkermansiaceae
+7.79	14	0	G	239934	                Akkermansia
+7.79	14	14	S	239935	                  Akkermansia muciniphila

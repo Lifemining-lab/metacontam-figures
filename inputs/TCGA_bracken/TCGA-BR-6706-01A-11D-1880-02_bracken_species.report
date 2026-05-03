@@ -1,0 +1,111 @@
+100.00	12214	0	R	1	root
+96.56	11793	0	R1	131567	  cellular organisms
+94.69	11565	0	D	2759	    Eukaryota
+94.69	11565	0	D1	33154	      Opisthokonta
+94.69	11565	0	K	33208	        Metazoa
+94.69	11565	0	K1	6072	          Eumetazoa
+94.69	11565	0	K2	33213	            Bilateria
+94.69	11565	0	K3	33511	              Deuterostomia
+94.69	11565	0	P	7711	                Chordata
+94.69	11565	0	P1	89593	                  Craniata
+94.69	11565	0	P2	7742	                    Vertebrata
+94.69	11565	0	P3	7776	                      Gnathostomata
+94.69	11565	0	P4	117570	                        Teleostomi
+94.69	11565	0	P5	117571	                          Euteleostomi
+94.69	11565	0	P6	8287	                            Sarcopterygii
+94.69	11565	0	P7	1338369	                              Dipnotetrapodomorpha
+94.69	11565	0	P8	32523	                                Tetrapoda
+94.69	11565	0	P9	32524	                                  Amniota
+94.69	11565	0	C	40674	                                    Mammalia
+94.69	11565	0	C1	32525	                                      Theria
+94.69	11565	0	C2	9347	                                        Eutheria
+94.69	11565	0	C3	1437010	                                          Boreoeutheria
+94.69	11565	0	C4	314146	                                            Euarchontoglires
+94.69	11565	0	O	9443	                                              Primates
+94.69	11565	0	O1	376913	                                                Haplorrhini
+94.69	11565	0	O2	314293	                                                  Simiiformes
+94.69	11565	0	O3	9526	                                                    Catarrhini
+94.69	11565	0	O4	314295	                                                      Hominoidea
+94.69	11565	0	F	9604	                                                        Hominidae
+94.69	11565	0	F1	207598	                                                          Homininae
+94.69	11565	0	G	9605	                                                            Homo
+94.69	11565	11565	S	9606	                                                              Homo sapiens
+1.87	228	0	D	2	    Bacteria
+0.89	108	0	D1	1783272	      Terrabacteria group
+0.74	90	0	P	1239	        Bacillota
+0.65	79	0	C	909932	          Negativicutes
+0.65	79	0	O	1843489	            Veillonellales
+0.65	79	0	F	31977	              Veillonellaceae
+0.65	79	0	G	29465	                Veillonella
+0.57	69	69	S	29466	                  Veillonella parvula
+0.04	4	4	S	423477	                  Veillonella rogosae
+0.03	3	0	G1	2630086	                  unclassified Veillonella
+0.03	3	3	S	2682455	                    Veillonella sp. S12025-13
+0.02	2	2	S	39777	                  Veillonella atypica
+0.09	11	0	C	91061	          Bacilli
+0.09	11	0	O	186826	            Lactobacillales
+0.09	11	0	F	1300	              Streptococcaceae
+0.09	11	0	G	1301	                Streptococcus
+0.06	7	7	S	1303	                  Streptococcus oralis
+0.03	3	3	S	28037	                  Streptococcus mitis
+0.07	9	0	P	201174	        Actinomycetota
+0.07	9	0	C	1760	          Actinomycetes
+0.07	9	0	O	85009	            Propionibacteriales
+0.07	9	0	F	31957	              Propionibacteriaceae
+0.07	9	0	G	1912216	                Cutibacterium
+0.07	9	9	S	1747	                  Cutibacterium acnes
+0.07	9	0	P	544448	        Mycoplasmatota
+0.07	9	0	O	2790996	          Mycoplasmoidales
+0.07	9	0	F	2895623	            Metamycoplasmataceae
+0.07	9	0	G	2895509	              Metamycoplasma
+0.07	9	9	S	2124	                Metamycoplasma salivarium
+0.80	98	0	D1	1783270	      FCB group
+0.80	98	0	D2	68336	        Bacteroidota/Chlorobiota group
+0.80	98	0	P	976	          Bacteroidota
+0.79	96	0	C	200643	            Bacteroidia
+0.79	96	0	O	171549	              Bacteroidales
+0.79	96	0	F	171552	                Prevotellaceae
+0.79	96	0	G	838	                  Prevotella
+0.37	45	45	S	28132	                    Prevotella melaninogenica
+0.27	33	33	S	28129	                    Prevotella denticola
+0.06	7	7	S	470565	                    Prevotella histicola
+0.03	3	0	G1	2638335	                    unclassified Prevotella
+0.03	3	3	S	652716	                      Prevotella sp. oral taxon 299
+0.03	3	3	S	589437	                    Prevotella scopos
+0.03	3	3	S	28135	                    Prevotella oris
+0.02	2	0	C	117743	            Flavobacteriia
+0.02	2	0	O	200644	              Flavobacteriales
+0.02	2	0	F	49546	                Flavobacteriaceae
+0.02	2	0	G	2967089	                  Abyssalbus
+0.02	2	2	S	2926907	                    Abyssalbus ytuae
+0.10	12	0	P	1224	      Pseudomonadota
+0.10	12	0	C	1236	        Gammaproteobacteria
+0.10	12	0	O	135625	          Pasteurellales
+0.10	12	0	F	712	            Pasteurellaceae
+0.10	12	0	G	724	              Haemophilus
+0.10	12	12	S	729	                Haemophilus parainfluenzae
+0.05	6	0	P	32066	      Fusobacteriota
+0.05	6	0	C	203490	        Fusobacteriia
+0.05	6	0	O	203491	          Fusobacteriales
+0.03	4	0	F	203492	            Fusobacteriaceae
+0.03	4	0	G	848	              Fusobacterium
+0.03	4	4	S	2663009	                Fusobacterium pseudoperiodonticum
+0.02	2	0	F	1129771	            Leptotrichiaceae
+0.02	2	0	G	32067	              Leptotrichia
+0.02	2	2	S	554406	                Leptotrichia hongkongensis
+0.02	3	0	P	29547	      Campylobacterota
+0.02	3	0	C	3031852	        Epsilonproteobacteria
+0.02	3	0	O	213849	          Campylobacterales
+0.02	3	0	F	72294	            Campylobacteraceae
+0.02	3	0	G	194	              Campylobacter
+0.02	3	3	S	199	                Campylobacter concisus
+3.44	420	0	D	10239	  Viruses
+3.44	420	0	D1	2731341	    Duplodnaviria
+3.44	420	0	K	2731360	      Heunggongvirae
+3.44	420	0	P	2731361	        Peploviricota
+3.44	420	0	C	2731363	          Herviviricetes
+3.44	420	0	O	548681	            Herpesvirales
+3.44	420	0	F	10292	              Herpesviridae
+3.44	420	0	F1	10374	                Gammaherpesvirinae
+3.44	420	0	G	10375	                  Lymphocryptovirus
+3.44	420	420	S	3050299	                    Lymphocryptovirus humangamma4

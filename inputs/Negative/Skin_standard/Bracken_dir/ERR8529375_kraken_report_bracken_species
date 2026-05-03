@@ -1,0 +1,94 @@
+100.00	818	0	R	1	root
+100.00	818	0	R1	131567	  cellular organisms
+100.00	818	0	D	2	    Bacteria
+51.79	423	0	D1	1783272	      Terrabacteria group
+50.19	410	0	P	1239	        Bacillota
+50.19	410	0	C	91061	          Bacilli
+33.58	274	0	O	186826	            Lactobacillales
+28.12	230	0	F	33958	              Lactobacillaceae
+28.12	230	0	G	2742598	                Limosilactobacillus
+28.12	230	230	S	1613	                  Limosilactobacillus fermentum
+4.16	34	0	F	81852	              Enterococcaceae
+4.16	34	0	G	1350	                Enterococcus
+4.16	34	34	S	1351	                  Enterococcus faecalis
+1.04	8	0	F	1300	              Streptococcaceae
+1.04	8	0	G	1301	                Streptococcus
+0.62	5	5	S	1304	                  Streptococcus salivarius
+0.42	3	0	G1	2608887	                  unclassified Streptococcus
+0.42	3	3	S	2610896	                    Streptococcus sp. LPB0220
+0.26	2	0	F	186828	              Carnobacteriaceae
+0.26	2	0	G	117563	                Granulicatella
+0.26	2	2	S	46124	                  Granulicatella adiacens
+16.61	135	0	O	1385	            Bacillales
+11.83	96	0	F	90964	              Staphylococcaceae
+11.83	96	0	G	1279	                Staphylococcus
+11.08	90	0	G1	91994	                  unclassified Staphylococcus
+11.08	90	90	S	2799681	                    Staphylococcus sp. T93
+0.75	6	6	S	1280	                  Staphylococcus aureus
+4.78	39	0	F	186817	              Bacillaceae
+4.78	39	0	G	1386	                Bacillus
+3.64	29	0	G1	653685	                  Bacillus subtilis group
+1.81	14	0	G2	1938374	                    Bacillus amyloliquefaciens group
+1.81	14	14	S	492670	                      Bacillus velezensis
+1.44	11	11	S	96241	                    Bacillus spizizenii
+0.38	3	3	S	1452	                    Bacillus atrophaeus
+1.14	9	0	G1	86661	                  Bacillus cereus group
+1.14	9	9	S	1396	                    Bacillus cereus
+1.60	13	0	P	201174	        Actinomycetota
+1.35	11	0	C	1760	          Actinomycetes
+0.98	8	0	O	85006	            Micrococcales
+0.98	8	0	F	1268	              Micrococcaceae
+0.98	8	0	G	32207	                Rothia
+0.98	8	8	S	43675	                  Rothia mucilaginosa
+0.37	3	0	O	2037	            Actinomycetales
+0.37	3	0	F	2049	              Actinomycetaceae
+0.37	3	0	G	1654	                Actinomyces
+0.37	3	3	S	544580	                  Actinomyces oris
+0.25	2	0	C	84998	          Coriobacteriia
+0.25	2	0	O	84999	            Coriobacteriales
+0.25	2	0	F	1643824	              Atopobiaceae
+0.25	2	0	G	2767353	                Lancefieldella
+0.25	2	2	S	1382	                  Lancefieldella parvula
+48.21	394	0	P	1224	      Pseudomonadota
+30.84	252	0	C	1236	        Gammaproteobacteria
+20.22	165	0	O	72274	          Pseudomonadales
+20.22	165	0	F	135621	            Pseudomonadaceae
+20.22	165	0	G	286	              Pseudomonas
+20.22	165	0	G1	196821	                unclassified Pseudomonas
+20.22	165	165	S	2892442	                  Pseudomonas sp. CIP-10
+10.62	86	0	O	91347	          Enterobacterales
+10.62	86	0	F	543	            Enterobacteriaceae
+7.93	64	0	G	590	              Salmonella
+7.93	64	64	S	28901	                Salmonella enterica
+2.69	21	0	G	561	              Escherichia
+2.69	21	21	S	562	                Escherichia coli
+15.16	124	0	C	28216	        Betaproteobacteria
+15.16	124	0	O	80840	          Burkholderiales
+14.13	115	0	F	119060	            Burkholderiaceae
+12.08	98	0	G	106589	              Cupriavidus
+11.67	95	95	S	82633	                Cupriavidus pauculus
+0.42	3	3	S	119219	                Cupriavidus metallidurans
+2.05	16	0	G	32008	              Burkholderia
+2.05	16	0	G1	87882	                Burkholderia cepacia complex
+2.05	16	16	S	87883	                  Burkholderia multivorans
+0.76	6	0	F	2975441	            Sphaerotilaceae
+0.44	3	0	G	65047	              Mitsuaria
+0.44	3	0	G1	2648776	                unclassified Mitsuaria
+0.44	3	3	S	1658665	                  Mitsuaria sp. 7
+0.32	2	0	G	644355	              Inhella
+0.32	2	2	S	392593	                Inhella inkyongensis
+0.27	2	0	O1	224471	            Burkholderiales genera incertae sedis
+0.27	2	0	G	318147	              Paucibacter
+0.27	2	0	G1	2642959	                unclassified Paucibacter
+0.27	2	2	S	3019553	                  Paucibacter sp. S2-9
+2.20	18	0	C	28211	        Alphaproteobacteria
+1.82	14	0	O	204458	          Caulobacterales
+1.82	14	0	F	76892	            Caulobacteraceae
+1.82	14	0	G	75	              Caulobacter
+1.38	11	11	S	88688	                Caulobacter segnis
+0.44	3	3	S	155892	                Caulobacter vibrioides
+0.38	3	0	O	356	          Hyphomicrobiales
+0.38	3	0	F	2831100	            Boseaceae
+0.38	3	0	G	85413	              Bosea
+0.38	3	0	G1	2653178	                unclassified Bosea (in: a-proteobacteria)
+0.38	3	3	S	1842539	                  Bosea sp. RAC05

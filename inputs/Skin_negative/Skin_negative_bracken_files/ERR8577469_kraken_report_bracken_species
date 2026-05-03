@@ -1,0 +1,36 @@
+100.00	26	0	R	1	root
+100.00	26	0	R1	131567	  cellular organisms
+100.00	26	0	D	2	    Bacteria
+50.77	13	0	D1	1783272	      Terrabacteria group
+50.77	13	0	P	201174	        Actinomycetota
+40.66	10	0	C	1760	          Actinomycetes
+40.66	10	0	O	85009	            Propionibacteriales
+40.66	10	0	F	31957	              Propionibacteriaceae
+40.66	10	0	G	1912216	                Cutibacterium
+40.66	10	10	S	1747	                  Cutibacterium acnes
+10.11	2	0	C	84995	          Rubrobacteria
+10.11	2	0	O	84996	            Rubrobacterales
+10.11	2	0	F	2600303	              Baekduiaceae
+10.11	2	0	G	2600304	                Baekduia
+10.11	2	2	S	2997333	                  Baekduia alba
+49.23	12	0	P	1224	      Pseudomonadota
+28.81	7	0	C	28211	        Alphaproteobacteria
+11.17	2	0	O	204457	          Sphingomonadales
+11.17	2	0	F	41297	            Sphingomonadaceae
+11.17	2	0	G	165695	              Sphingobium
+11.17	2	2	S	135719	                Sphingobium amiense
+9.61	2	0	O	204458	          Caulobacterales
+9.61	2	0	F	76892	            Caulobacteraceae
+9.61	2	0	G	20	              Phenylobacterium
+9.61	2	0	G1	2640670	                unclassified Phenylobacterium
+9.61	2	2	S	3015177	                  Phenylobacterium sp. NIBR 498073
+8.03	2	0	O	356	          Hyphomicrobiales
+8.03	2	0	F	335928	            Xanthobacteraceae
+8.03	2	0	G	99	              Ancylobacter
+8.03	2	0	G1	2626613	                unclassified Ancylobacter
+8.03	2	2	S	1850374	                  Ancylobacter sp. TS-1
+20.42	5	0	C	28216	        Betaproteobacteria
+20.42	5	0	O	206351	          Neisseriales
+20.42	5	0	F	481	            Neisseriaceae
+20.42	5	0	G	482	              Neisseria
+20.42	5	5	S	28449	                Neisseria subflava

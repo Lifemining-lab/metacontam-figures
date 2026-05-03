@@ -1,0 +1,73 @@
+100.00	270791	0	R	1	root
+100.00	270791	0	R1	131567	  cellular organisms
+99.96	270670	0	D	2759	    Eukaryota
+99.96	270670	0	D1	33154	      Opisthokonta
+99.96	270670	0	K	33208	        Metazoa
+99.96	270670	0	K1	6072	          Eumetazoa
+99.96	270670	0	K2	33213	            Bilateria
+99.96	270670	0	K3	33511	              Deuterostomia
+99.96	270670	0	P	7711	                Chordata
+99.96	270670	0	P1	89593	                  Craniata
+99.96	270670	0	P2	7742	                    Vertebrata
+99.96	270670	0	P3	7776	                      Gnathostomata
+99.96	270670	0	P4	117570	                        Teleostomi
+99.96	270670	0	P5	117571	                          Euteleostomi
+99.96	270670	0	P6	8287	                            Sarcopterygii
+99.96	270670	0	P7	1338369	                              Dipnotetrapodomorpha
+99.96	270670	0	P8	32523	                                Tetrapoda
+99.96	270670	0	P9	32524	                                  Amniota
+99.96	270670	0	C	40674	                                    Mammalia
+99.96	270670	0	C1	32525	                                      Theria
+99.96	270670	0	C2	9347	                                        Eutheria
+99.96	270670	0	C3	1437010	                                          Boreoeutheria
+99.96	270670	0	C4	314146	                                            Euarchontoglires
+99.96	270670	0	O	9443	                                              Primates
+99.96	270670	0	O1	376913	                                                Haplorrhini
+99.96	270670	0	O2	314293	                                                  Simiiformes
+99.96	270670	0	O3	9526	                                                    Catarrhini
+99.96	270670	0	O4	314295	                                                      Hominoidea
+99.96	270670	0	F	9604	                                                        Hominidae
+99.96	270670	0	F1	207598	                                                          Homininae
+99.96	270670	0	G	9605	                                                            Homo
+99.96	270670	270670	S	9606	                                                              Homo sapiens
+0.04	120	0	D	2	    Bacteria
+0.03	84	0	D1	1783270	      FCB group
+0.03	84	0	D2	68336	        Bacteroidota/Chlorobiota group
+0.03	84	0	P	976	          Bacteroidota
+0.03	84	0	C	200643	            Bacteroidia
+0.03	84	0	O	171549	              Bacteroidales
+0.03	76	0	F	815	                Bacteroidaceae
+0.01	40	0	G	816	                  Bacteroides
+0.01	22	22	S	818	                    Bacteroides thetaiotaomicron
+0.00	11	11	S	246787	                    Bacteroides cellulosilyticus
+0.00	6	6	S	820	                    Bacteroides uniformis
+0.01	36	0	G	909656	                  Phocaeicola
+0.01	36	36	S	357276	                    Phocaeicola dorei
+0.00	7	0	F	2005525	                Tannerellaceae
+0.00	7	0	G	375288	                  Parabacteroides
+0.00	7	7	S	823	                    Parabacteroides distasonis
+0.01	34	0	D1	1783272	      Terrabacteria group
+0.01	34	0	P	1239	        Bacillota
+0.01	32	0	C	186801	          Clostridia
+0.01	32	0	O	186802	            Eubacteriales
+0.01	16	0	F	216572	              Oscillospiraceae
+0.01	16	0	G	216851	                Faecalibacterium
+0.01	16	16	S	853	                  Faecalibacterium prausnitzii
+0.01	15	0	F	186803	              Lachnospiraceae
+0.01	13	0	G	841	                Roseburia
+0.01	13	13	S	166486	                  Roseburia intestinalis
+0.00	2	0	G	33042	                Coprococcus
+0.00	2	0	G1	2684943	                  unclassified Coprococcus
+0.00	2	2	S	751585	                    Coprococcus sp. ART55/1
+0.00	2	0	C	909932	          Negativicutes
+0.00	2	0	O	1843488	            Acidaminococcales
+0.00	2	0	F	909930	              Acidaminococcaceae
+0.00	2	0	G	33024	                Phascolarctobacterium
+0.00	2	2	S	33025	                  Phascolarctobacterium faecium
+0.00	2	0	D1	1783257	      PVC group
+0.00	2	0	P	74201	        Verrucomicrobiota
+0.00	2	0	C	203494	          Verrucomicrobiae
+0.00	2	0	O	48461	            Verrucomicrobiales
+0.00	2	0	F	1647988	              Akkermansiaceae
+0.00	2	0	G	239934	                Akkermansia
+0.00	2	2	S	239935	                  Akkermansia muciniphila

@@ -1,0 +1,81 @@
+100.00	157	0	R	1	root
+100.00	157	0	R1	131567	  cellular organisms
+98.73	155	0	D	2	    Bacteria
+79.95	125	0	P	1224	      Pseudomonadota
+72.30	113	0	C	28216	        Betaproteobacteria
+72.30	113	0	O	80840	          Burkholderiales
+72.30	113	0	F	119060	            Burkholderiaceae
+59.73	93	0	G	48736	              Ralstonia
+56.62	88	88	S	190721	                Ralstonia insidiosa
+3.10	4	4	S	329	                Ralstonia pickettii
+10.36	16	0	G	1822464	              Paraburkholderia
+10.36	16	16	S	134537	                Paraburkholderia fungorum
+2.21	3	0	G	106589	              Cupriavidus
+2.21	3	3	S	68895	                Cupriavidus basilensis
+6.37	10	0	C	28211	        Alphaproteobacteria
+5.10	8	0	O	356	          Hyphomicrobiales
+5.10	8	0	F	41294	            Nitrobacteraceae
+5.10	8	0	G	374	              Bradyrhizobium
+5.10	8	0	G1	2631580	                unclassified Bradyrhizobium
+3.38	5	5	S	1404443	                  Bradyrhizobium sp. 41S5
+1.72	2	2	S	2057741	                  Bradyrhizobium sp. SK17
+1.27	2	0	O	204455	          Rhodobacterales
+1.27	2	0	F	31989	            Paracoccaceae
+1.27	2	0	G	2937410	              Gymnodinialimonas
+1.27	2	2	S	2856823	                Gymnodinialimonas ceratoperidinii
+1.28	2	0	C	1236	        Gammaproteobacteria
+1.28	2	0	O	135614	          Xanthomonadales
+1.28	2	0	F	32033	            Xanthomonadaceae
+1.28	2	0	G	338	              Xanthomonas
+1.28	2	2	S	56458	                Xanthomonas sacchari
+18.78	29	0	D1	1783272	      Terrabacteria group
+18.78	29	0	P	201174	        Actinomycetota
+18.78	29	0	C	1760	          Actinomycetes
+13.02	20	0	O	85009	            Propionibacteriales
+13.02	20	0	F	31957	              Propionibacteriaceae
+13.02	20	0	G	1912216	                Cutibacterium
+13.02	20	20	S	1747	                  Cutibacterium acnes
+3.85	6	0	O	85006	            Micrococcales
+2.56	4	0	F	1268	              Micrococcaceae
+1.29	2	0	G	32207	                Rothia
+1.29	2	2	S	43675	                  Rothia mucilaginosa
+1.28	2	0	G	57493	                Kocuria
+1.28	2	2	S	71999	                  Kocuria palustris
+1.28	2	0	F	85023	              Microbacteriaceae
+1.28	2	0	G	2034	                Curtobacterium
+1.28	2	0	G1	257496	                  unclassified Curtobacterium
+1.28	2	2	S	3049047	                    Curtobacterium sp. DN_7.5
+1.91	3	0	O	85007	            Mycobacteriales
+1.91	3	0	F	85025	              Nocardiaceae
+1.91	3	0	G	1827	                Rhodococcus
+1.91	3	3	S	1828	                  Rhodococcus fascians
+1.27	2	0	D	2759	    Eukaryota
+1.27	2	0	D1	33154	      Opisthokonta
+1.27	2	0	K	33208	        Metazoa
+1.27	2	0	K1	6072	          Eumetazoa
+1.27	2	0	K2	33213	            Bilateria
+1.27	2	0	K3	33511	              Deuterostomia
+1.27	2	0	P	7711	                Chordata
+1.27	2	0	P1	89593	                  Craniata
+1.27	2	0	P2	7742	                    Vertebrata
+1.27	2	0	P3	7776	                      Gnathostomata
+1.27	2	0	P4	117570	                        Teleostomi
+1.27	2	0	P5	117571	                          Euteleostomi
+1.27	2	0	P6	8287	                            Sarcopterygii
+1.27	2	0	P7	1338369	                              Dipnotetrapodomorpha
+1.27	2	0	P8	32523	                                Tetrapoda
+1.27	2	0	P9	32524	                                  Amniota
+1.27	2	0	C	40674	                                    Mammalia
+1.27	2	0	C1	32525	                                      Theria
+1.27	2	0	C2	9347	                                        Eutheria
+1.27	2	0	C3	1437010	                                          Boreoeutheria
+1.27	2	0	C4	314146	                                            Euarchontoglires
+1.27	2	0	O	9443	                                              Primates
+1.27	2	0	O1	376913	                                                Haplorrhini
+1.27	2	0	O2	314293	                                                  Simiiformes
+1.27	2	0	O3	9526	                                                    Catarrhini
+1.27	2	0	O4	314295	                                                      Hominoidea
+1.27	2	0	F	9604	                                                        Hominidae
+1.27	2	0	F1	207598	                                                          Homininae
+1.27	2	0	G	9605	                                                            Homo
+1.27	2	2	S	9606	                                                              Homo sapiens

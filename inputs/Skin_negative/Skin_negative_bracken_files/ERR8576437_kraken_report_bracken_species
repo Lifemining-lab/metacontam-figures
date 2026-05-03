@@ -1,0 +1,46 @@
+100.00	25	0	R	1	root
+80.00	20	0	R1	131567	  cellular organisms
+80.00	20	0	D	2	    Bacteria
+40.00	10	0	D1	1783270	      FCB group
+40.00	10	0	D2	68336	        Bacteroidota/Chlorobiota group
+40.00	10	0	P	976	          Bacteroidota
+40.00	10	0	C	117743	            Flavobacteriia
+40.00	10	0	O	200644	              Flavobacteriales
+40.00	10	0	F	49546	                Flavobacteriaceae
+28.00	7	0	G	237	                  Flavobacterium
+28.00	7	7	S	1751095	                    Flavobacterium ammoniigenes
+12.00	3	0	G	326319	                  Dokdonia
+12.00	3	0	G1	2615033	                    unclassified Dokdonia
+12.00	3	3	S	313590	                      Dokdonia sp. MED134
+28.00	7	0	P	1224	      Pseudomonadota
+18.20	4	0	C	28211	        Alphaproteobacteria
+9.19	2	0	O	356	          Hyphomicrobiales
+9.19	2	0	F	335928	            Xanthobacteraceae
+9.19	2	0	G	556257	              Pseudolabrys
+9.19	2	2	S	331696	                Pseudolabrys taiwanensis
+9.01	2	0	O	54526	          Candidatus Pelagibacterales
+9.01	2	0	F	1655514	            Pelagibacteraceae
+9.01	2	0	G	198251	              Candidatus Pelagibacter
+9.01	2	2	S	198252	                Candidatus Pelagibacter ubique
+9.80	2	0	C	28216	        Betaproteobacteria
+9.80	2	0	O	80840	          Burkholderiales
+9.80	2	0	F	80864	            Comamonadaceae
+9.80	2	0	G	12916	              Acidovorax
+9.80	2	0	G1	2684926	                unclassified Acidovorax
+9.80	2	2	S	2518343	                  Acidovorax sp. JMULE5
+12.00	3	0	D1	1783272	      Terrabacteria group
+12.00	3	0	D2	1798711	        Cyanobacteriota/Melainabacteria group
+12.00	3	0	P	1117	          Cyanobacteriota
+12.00	3	0	C	3028117	            Cyanophyceae
+12.00	3	0	O	1890424	              Synechococcales
+12.00	3	0	F	2881426	                Prochlorococcaceae
+12.00	3	0	G	1218	                  Prochlorococcus
+12.00	3	3	S	1219	                    Prochlorococcus marinus
+20.00	5	0	D	10239	  Viruses
+20.00	5	0	D1	2731341	    Duplodnaviria
+20.00	5	0	K	2731360	      Heunggongvirae
+20.00	5	0	P	2731618	        Uroviricota
+20.00	5	0	C	2731619	          Caudoviricetes
+20.00	5	0	F	2946160	            Kyanoviridae
+20.00	5	0	G	2948752	              Haifavirus
+20.00	5	5	S	2955972	                Haifavirus tim68

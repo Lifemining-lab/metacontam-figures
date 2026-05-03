@@ -1,0 +1,47 @@
+100.00	56	0	R	1	root
+100.00	56	0	R1	131567	  cellular organisms
+100.00	56	0	D	2	    Bacteria
+66.94	37	0	P	1224	      Pseudomonadota
+52.65	29	0	C	1236	        Gammaproteobacteria
+35.82	20	0	O	91347	          Enterobacterales
+35.82	20	0	F	543	            Enterobacteriaceae
+35.82	20	0	G	561	              Escherichia
+35.82	20	20	S	562	                Escherichia coli
+16.83	9	0	O	72274	          Pseudomonadales
+16.83	9	0	F	135621	            Pseudomonadaceae
+16.83	9	0	G	286	              Pseudomonas
+16.83	9	0	G1	136841	                Pseudomonas aeruginosa group
+16.83	9	9	S	287	                  Pseudomonas aeruginosa
+14.29	8	0	C	28211	        Alphaproteobacteria
+8.93	5	0	O	204457	          Sphingomonadales
+8.93	5	0	F	41297	            Sphingomonadaceae
+8.93	5	0	G	13687	              Sphingomonas
+8.93	5	0	G1	196159	                unclassified Sphingomonas
+5.36	3	3	S	1517554	                  Sphingomonas sp. HMP9
+3.57	2	2	S	2565555	                  Sphingomonas sp. PAMC26645
+5.36	3	0	O	356	          Hyphomicrobiales
+5.36	3	0	F	41294	            Nitrobacteraceae
+5.36	3	0	G	374	              Bradyrhizobium
+5.36	3	0	G1	2631580	                unclassified Bradyrhizobium
+5.36	3	3	S	288000	                  Bradyrhizobium sp. BTAi1
+33.06	18	0	D1	1783272	      Terrabacteria group
+25.91	14	0	P	1239	        Bacillota
+25.91	14	0	C	91061	          Bacilli
+16.61	9	0	O	1385	            Bacillales
+16.61	9	0	F	186817	              Bacillaceae
+16.61	9	0	G	1386	                Bacillus
+16.61	9	0	G1	653685	                  Bacillus subtilis group
+16.61	9	9	S	96241	                    Bacillus spizizenii
+9.31	5	0	O	186826	            Lactobacillales
+5.69	3	0	F	81852	              Enterococcaceae
+5.69	3	0	G	1350	                Enterococcus
+5.69	3	3	S	1351	                  Enterococcus faecalis
+3.61	2	0	F	33958	              Lactobacillaceae
+3.61	2	0	G	2742598	                Limosilactobacillus
+3.61	2	2	S	1613	                  Limosilactobacillus fermentum
+7.15	4	0	P	201174	        Actinomycetota
+7.15	4	0	C	1760	          Actinomycetes
+7.15	4	0	O	85009	            Propionibacteriales
+7.15	4	0	F	31957	              Propionibacteriaceae
+7.15	4	0	G	1912216	                Cutibacterium
+7.15	4	4	S	1747	                  Cutibacterium acnes

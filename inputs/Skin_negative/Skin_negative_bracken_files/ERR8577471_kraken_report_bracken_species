@@ -1,0 +1,39 @@
+100.00	32	0	R	1	root
+100.00	32	0	R1	131567	  cellular organisms
+100.00	32	0	D	2	    Bacteria
+57.72	18	0	D1	1783272	      Terrabacteria group
+41.37	13	0	P	201174	        Actinomycetota
+41.37	13	0	C	1760	          Actinomycetes
+22.97	7	0	O	85009	            Propionibacteriales
+22.97	7	0	F	31957	              Propionibacteriaceae
+22.97	7	0	G	1912216	                Cutibacterium
+22.97	7	7	S	1747	                  Cutibacterium acnes
+18.40	5	0	O	85010	            Pseudonocardiales
+18.40	5	0	F	2070	              Pseudonocardiaceae
+18.40	5	0	G	1847	                Pseudonocardia
+18.40	5	5	S	2736640	                  Pseudonocardia broussonetiae
+16.34	5	0	P	1239	        Bacillota
+16.34	5	0	C	91061	          Bacilli
+16.34	5	0	O	186826	            Lactobacillales
+16.34	5	0	F	1300	              Streptococcaceae
+16.34	5	0	G	1357	                Lactococcus
+16.34	5	5	S	1358	                  Lactococcus lactis
+36.03	11	0	P	1224	      Pseudomonadota
+26.63	8	0	C	28216	        Betaproteobacteria
+26.63	8	0	O	80840	          Burkholderiales
+26.63	8	0	F	80864	            Comamonadaceae
+26.63	8	0	G	80865	              Delftia
+26.63	8	8	S	558537	                Delftia lacustris
+9.40	3	0	C	28211	        Alphaproteobacteria
+9.40	3	0	O	356	          Hyphomicrobiales
+9.40	3	0	F	41294	            Nitrobacteraceae
+9.40	3	0	G	374	              Bradyrhizobium
+9.40	3	0	G1	2631580	                unclassified Bradyrhizobium
+9.40	3	3	S	2057741	                  Bradyrhizobium sp. SK17
+6.25	2	0	D1	1783257	      PVC group
+6.25	2	0	P	74201	        Verrucomicrobiota
+6.25	2	0	C	414999	          Opitutae
+6.25	2	0	O	415000	            Opitutales
+6.25	2	0	F	134623	              Opitutaceae
+6.25	2	0	G	2576890	                Nibricoccus
+6.25	2	2	S	2576891	                  Nibricoccus aquaticus

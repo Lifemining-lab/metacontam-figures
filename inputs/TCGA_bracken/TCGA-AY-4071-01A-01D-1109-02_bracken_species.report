@@ -1,0 +1,154 @@
+100.00	175535	0	R	1	root
+99.89	175340	0	R1	131567	  cellular organisms
+98.89	173579	0	D	2	    Bacteria
+96.50	169383	0	P	1224	      Pseudomonadota
+96.49	169368	0	C	1236	        Gammaproteobacteria
+96.47	169335	0	O	91347	          Enterobacterales
+96.47	169335	0	F	543	            Enterobacteriaceae
+95.84	168227	0	G	561	              Escherichia
+95.76	168094	168094	S	562	                Escherichia coli
+0.03	52	52	S	208962	                Escherichia albertii
+0.05	80	80	S	564	                Escherichia fergusonii
+0.62	1081	0	F1	2890311	              Klebsiella/Raoultella group
+0.62	1081	0	G	570	                Klebsiella
+0.62	1081	1081	S	573	                  Klebsiella pneumoniae
+0.02	26	0	G	579	              Kluyvera
+0.02	26	26	S	51288	                Kluyvera ascorbata
+0.02	33	0	O	72274	          Pseudomonadales
+0.02	33	0	F	135621	            Pseudomonadaceae
+0.02	33	0	G	286	              Pseudomonas
+0.02	33	0	G1	136843	                Pseudomonas fluorescens group
+0.02	33	33	S	29442	                  Pseudomonas tolaasii
+0.01	15	0	C	28216	        Betaproteobacteria
+0.01	15	0	O	80840	          Burkholderiales
+0.01	11	0	F	80864	            Comamonadaceae
+0.01	11	0	G	12916	              Acidovorax
+0.01	11	11	S	80878	                Acidovorax temperans
+0.00	3	0	F	119060	            Burkholderiaceae
+0.00	3	0	G	106589	              Cupriavidus
+0.00	3	3	S	164546	                Cupriavidus taiwanensis
+2.14	3749	0	D1	1783272	      Terrabacteria group
+2.13	3744	0	P	1239	        Bacillota
+2.11	3698	0	C	91061	          Bacilli
+2.10	3678	0	O	1385	            Bacillales
+2.09	3672	0	F	90964	              Staphylococcaceae
+2.09	3672	0	G	1279	                Staphylococcus
+2.07	3640	3640	S	1286	                  Staphylococcus simulans
+0.01	10	10	S	29382	                  Staphylococcus cohnii
+0.01	20	20	S	1282	                  Staphylococcus epidermidis
+0.00	6	0	O1	539002	              Bacillales incertae sedis
+0.00	6	0	O2	539738	                Bacillales Family XI. Incertae Sedis
+0.00	6	0	G	1378	                  Gemella
+0.00	6	6	S	29391	                    Gemella morbillorum
+0.01	20	0	O	186826	            Lactobacillales
+0.01	20	0	F	1300	              Streptococcaceae
+0.01	20	0	G	1301	                Streptococcus
+0.01	20	0	G1	671232	                  Streptococcus anginosus group
+0.01	20	20	S	1328	                    Streptococcus anginosus
+0.02	34	0	C	1737404	          Tissierellia
+0.02	34	0	O	1737405	            Tissierellales
+0.02	34	0	F	1570339	              Peptoniphilaceae
+0.02	34	0	G	543311	                Parvimonas
+0.02	34	34	S	33033	                  Parvimonas micra
+0.00	7	0	C	186801	          Clostridia
+0.00	7	0	O	186802	            Eubacteriales
+0.00	7	0	F	186803	              Lachnospiraceae
+0.00	4	0	G	2316020	                Mediterraneibacter
+0.00	2	2	S	33039	                  [Ruminococcus] torques
+0.00	2	2	S	33038	                  [Ruminococcus] gnavus
+0.00	2	0	G	2719313	                Enterocloster
+0.00	2	2	S	1531	                  Enterocloster clostridioformis
+0.00	3	0	C	526524	          Erysipelotrichia
+0.00	3	0	O	526525	            Erysipelotrichales
+0.00	3	0	F	2810280	              Coprobacillaceae
+0.00	3	0	G	3025755	                Thomasclavelia
+0.00	3	3	S	1547	                  Thomasclavelia ramosa
+0.00	5	0	P	201174	        Actinomycetota
+0.00	5	0	C	1760	          Actinomycetes
+0.00	5	0	O	85009	            Propionibacteriales
+0.00	5	0	F	31957	              Propionibacteriaceae
+0.00	5	0	G	1912216	                Cutibacterium
+0.00	5	5	S	1747	                  Cutibacterium acnes
+0.21	372	0	P	32066	      Fusobacteriota
+0.21	372	0	C	203490	        Fusobacteriia
+0.21	372	0	O	203491	          Fusobacteriales
+0.21	372	0	F	203492	            Fusobacteriaceae
+0.21	372	0	G	848	              Fusobacterium
+0.09	155	155	S	76857	                Fusobacterium polymorphum
+0.05	92	92	S	851	                Fusobacterium nucleatum
+0.02	28	28	S	1583098	                Fusobacterium hwasookii
+0.03	56	56	S	155615	                Fusobacterium vincentii
+0.01	9	9	S	285729	                Fusobacterium canifelinum
+0.01	24	24	S	76859	                Fusobacterium animalis
+0.00	5	5	S	2663009	                Fusobacterium pseudoperiodonticum
+0.04	73	0	D1	1783270	      FCB group
+0.04	73	0	D2	68336	        Bacteroidota/Chlorobiota group
+0.04	73	0	P	976	          Bacteroidota
+0.04	73	0	C	200643	            Bacteroidia
+0.04	73	0	O	171549	              Bacteroidales
+0.04	71	0	F	815	                Bacteroidaceae
+0.04	67	0	G	816	                  Bacteroides
+0.03	46	46	S	817	                    Bacteroides fragilis
+0.01	15	15	S	674529	                    Bacteroides faecis
+0.00	3	3	S	47678	                    Bacteroides caccae
+0.00	2	2	S	818	                    Bacteroides thetaiotaomicron
+0.00	3	0	G	909656	                  Phocaeicola
+0.00	3	3	S	821	                    Phocaeicola vulgatus
+0.00	2	0	F	1853231	                Odoribacteraceae
+0.00	2	0	G	574697	                  Butyricimonas
+0.00	2	2	S	544645	                    Butyricimonas virosa
+1.00	1760	0	D	2759	    Eukaryota
+1.00	1760	0	D1	33154	      Opisthokonta
+1.00	1760	0	K	33208	        Metazoa
+1.00	1760	0	K1	6072	          Eumetazoa
+1.00	1760	0	K2	33213	            Bilateria
+1.00	1760	0	K3	33511	              Deuterostomia
+1.00	1760	0	P	7711	                Chordata
+1.00	1760	0	P1	89593	                  Craniata
+1.00	1760	0	P2	7742	                    Vertebrata
+1.00	1760	0	P3	7776	                      Gnathostomata
+1.00	1760	0	P4	117570	                        Teleostomi
+1.00	1760	0	P5	117571	                          Euteleostomi
+1.00	1760	0	P6	8287	                            Sarcopterygii
+1.00	1760	0	P7	1338369	                              Dipnotetrapodomorpha
+1.00	1760	0	P8	32523	                                Tetrapoda
+1.00	1760	0	P9	32524	                                  Amniota
+1.00	1760	0	C	40674	                                    Mammalia
+1.00	1760	0	C1	32525	                                      Theria
+1.00	1760	0	C2	9347	                                        Eutheria
+1.00	1760	0	C3	1437010	                                          Boreoeutheria
+1.00	1760	0	C4	314146	                                            Euarchontoglires
+1.00	1760	0	O	9443	                                              Primates
+1.00	1760	0	O1	376913	                                                Haplorrhini
+1.00	1760	0	O2	314293	                                                  Simiiformes
+1.00	1760	0	O3	9526	                                                    Catarrhini
+1.00	1760	0	O4	314295	                                                      Hominoidea
+1.00	1760	0	F	9604	                                                        Hominidae
+1.00	1760	0	F1	207598	                                                          Homininae
+1.00	1760	0	G	9605	                                                            Homo
+1.00	1760	1760	S	9606	                                                              Homo sapiens
+0.11	195	0	D	10239	  Viruses
+0.06	98	0	D1	2731341	    Duplodnaviria
+0.06	98	0	K	2731360	      Heunggongvirae
+0.06	98	0	P	2731361	        Peploviricota
+0.06	98	0	C	2731363	          Herviviricetes
+0.06	98	0	O	548681	            Herpesvirales
+0.06	98	0	F	10292	              Herpesviridae
+0.06	98	0	F1	10374	                Gammaherpesvirinae
+0.06	98	0	G	10375	                  Lymphocryptovirus
+0.06	98	98	S	3050299	                    Lymphocryptovirus humangamma4
+0.05	96	0	D1	2731342	    Monodnaviria
+0.05	96	0	K	2732091	      Sangervirae
+0.05	96	0	P	2732412	        Phixviricota
+0.05	96	0	C	2732413	          Malgrandaviricetes
+0.05	96	0	O	2732414	            Petitvirales
+0.05	96	0	F	10841	              Microviridae
+0.05	96	0	F1	1910950	                Bullavirinae
+0.03	57	0	G	1910952	                  Gequatrovirus
+0.01	14	14	S	1986034	                    Gequatrovirus G4
+0.02	36	36	S	1910969	                    Gequatrovirus talmos
+0.00	7	7	S	1910968	                    Gequatrovirus ID52
+0.02	38	0	G	1910951	                  Alphatrevirus
+0.01	14	14	S	1945585	                    Alphatrevirus NC28
+0.01	13	13	S	1945584	                    Alphatrevirus ID21
+0.01	10	10	S	1945588	                    Alphatrevirus ID62

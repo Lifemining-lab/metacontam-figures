@@ -1,0 +1,106 @@
+100.00	6861	0	R	1	root
+100.00	6861	0	R1	131567	  cellular organisms
+91.24	6259	0	D	2759	    Eukaryota
+91.24	6259	0	D1	33154	      Opisthokonta
+91.24	6259	0	K	33208	        Metazoa
+91.24	6259	0	K1	6072	          Eumetazoa
+91.24	6259	0	K2	33213	            Bilateria
+91.24	6259	0	K3	33511	              Deuterostomia
+91.24	6259	0	P	7711	                Chordata
+91.24	6259	0	P1	89593	                  Craniata
+91.24	6259	0	P2	7742	                    Vertebrata
+91.24	6259	0	P3	7776	                      Gnathostomata
+91.24	6259	0	P4	117570	                        Teleostomi
+91.24	6259	0	P5	117571	                          Euteleostomi
+91.24	6259	0	P6	8287	                            Sarcopterygii
+91.24	6259	0	P7	1338369	                              Dipnotetrapodomorpha
+91.24	6259	0	P8	32523	                                Tetrapoda
+91.24	6259	0	P9	32524	                                  Amniota
+91.24	6259	0	C	40674	                                    Mammalia
+91.24	6259	0	C1	32525	                                      Theria
+91.24	6259	0	C2	9347	                                        Eutheria
+91.24	6259	0	C3	1437010	                                          Boreoeutheria
+91.24	6259	0	C4	314146	                                            Euarchontoglires
+91.24	6259	0	O	9443	                                              Primates
+91.24	6259	0	O1	376913	                                                Haplorrhini
+91.24	6259	0	O2	314293	                                                  Simiiformes
+91.24	6259	0	O3	9526	                                                    Catarrhini
+91.24	6259	0	O4	314295	                                                      Hominoidea
+91.24	6259	0	F	9604	                                                        Hominidae
+91.24	6259	0	F1	207598	                                                          Homininae
+91.24	6259	0	G	9605	                                                            Homo
+91.24	6259	6259	S	9606	                                                              Homo sapiens
+8.76	601	0	D	2	    Bacteria
+8.61	590	0	D1	1783272	      Terrabacteria group
+8.22	563	0	P	1239	        Bacillota
+6.17	423	0	C	91061	          Bacilli
+6.10	418	0	O	186826	            Lactobacillales
+6.07	416	0	F	33958	              Lactobacillaceae
+3.99	273	0	G	1578	                Lactobacillus
+1.70	116	116	S	47770	                  Lactobacillus crispatus
+2.12	145	145	S	1596	                  Lactobacillus gasseri
+0.03	2	2	S	33959	                  Lactobacillus johnsonii
+0.14	9	9	S	2107999	                  Lactobacillus paragasseri
+1.10	75	0	G	2742598	                Limosilactobacillus
+0.50	34	34	S	1633	                  Limosilactobacillus vaginalis
+0.51	35	35	S	2742601	                  Limosilactobacillus portuensis
+0.08	5	5	S	1613	                  Limosilactobacillus fermentum
+0.97	66	0	G	2767887	                Ligilactobacillus
+0.67	46	46	S	1624	                  Ligilactobacillus salivarius
+0.30	20	20	S	1601	                  Ligilactobacillus agilis
+0.03	2	0	F	1300	              Streptococcaceae
+0.03	2	0	G	1301	                Streptococcus
+0.03	2	2	S	45634	                  Streptococcus cristatus
+0.07	5	0	O	1385	            Bacillales
+0.07	5	0	F	90964	              Staphylococcaceae
+0.07	5	0	G	1279	                Staphylococcus
+0.07	5	5	S	29388	                  Staphylococcus capitis
+2.05	140	0	C	186801	          Clostridia
+2.05	140	0	O	186802	            Eubacteriales
+2.05	140	0	F	31979	              Clostridiaceae
+1.96	134	0	G	1485	                Clostridium
+0.50	34	34	S	1561	                  Clostridium baratii
+0.46	31	31	S	1502	                  Clostridium perfringens
+0.14	9	9	S	1491	                  Clostridium botulinum
+0.08	5	5	S	1529	                  Clostridium cadaveris
+0.07	4	4	S	182773	                  Clostridium isatidis
+0.07	4	4	S	46867	                  Clostridium chauvoei
+0.06	4	4	S	36845	                  Clostridium intestinale
+0.05	3	3	S	94869	                  Clostridium gasigenes
+0.05	3	3	S	1542	                  Clostridium novyi
+0.05	3	3	S	704125	                  Clostridium gelidum
+0.05	3	3	S	1504	                  Clostridium septicum
+0.14	9	9	S	1492	                  Clostridium butyricum
+0.03	2	2	S	1493	                  Clostridium cellulovorans
+0.03	2	2	S	137838	                  Clostridium neonatale
+0.03	2	2	S	169679	                  Clostridium saccharobutylicum
+0.03	2	2	S	2068654	                  Clostridium fermenticellae
+0.03	2	2	S	394958	                  Clostridium taeniosporum
+0.04	2	2	S	1216932	                  Clostridium bornimense
+0.03	2	2	S	1501	                  Clostridium pasteurianum
+0.05	3	0	G	1434026	                Oceanirhabdus
+0.05	3	0	G1	2675010	                  unclassified Oceanirhabdus
+0.05	3	3	S	2999116	                    Oceanirhabdus sp. W0125-5
+0.04	2	0	G	1266	                Sarcina
+0.04	2	0	G1	2619470	                  unclassified Sarcina
+0.04	2	2	S	2726954	                    Sarcina sp. JB2
+0.40	27	0	P	201174	        Actinomycetota
+0.40	27	0	C	1760	          Actinomycetes
+0.37	25	0	O	85009	            Propionibacteriales
+0.37	25	0	F	31957	              Propionibacteriaceae
+0.37	25	0	G	1912216	                Cutibacterium
+0.37	25	25	S	1747	                  Cutibacterium acnes
+0.03	2	0	O	85007	            Mycobacteriales
+0.03	2	0	F	85025	              Nocardiaceae
+0.03	2	0	G	1817	                Nocardia
+0.03	2	2	S	2749991	                  Nocardia gipuzkoensis
+0.15	10	0	D1	1783270	      FCB group
+0.15	10	0	D2	68336	        Bacteroidota/Chlorobiota group
+0.15	10	0	P	976	          Bacteroidota
+0.15	10	0	C	200643	            Bacteroidia
+0.15	10	0	O	171549	              Bacteroidales
+0.15	10	0	F	171552	                Prevotellaceae
+0.15	10	0	G	838	                  Prevotella
+0.06	4	4	S	28135	                    Prevotella oris
+0.05	3	3	S	28131	                    Prevotella intermedia
+0.03	2	2	S	28137	                    Prevotella veroralis

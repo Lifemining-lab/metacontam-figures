@@ -1,0 +1,44 @@
+100.00	71	0	R	1	root
+100.00	71	0	R1	131567	  cellular organisms
+100.00	71	0	D	2	    Bacteria
+64.79	46	0	P	1224	      Pseudomonadota
+45.02	31	0	C	1236	        Gammaproteobacteria
+25.35	17	0	O	91347	          Enterobacterales
+25.35	17	0	F	543	            Enterobacteriaceae
+25.35	17	0	G	590	              Salmonella
+25.35	17	17	S	28901	                Salmonella enterica
+19.67	13	0	O	72274	          Pseudomonadales
+19.67	13	0	F	135621	            Pseudomonadaceae
+19.67	13	0	G	286	              Pseudomonas
+19.67	13	0	G1	136841	                Pseudomonas aeruginosa group
+19.67	13	13	S	287	                  Pseudomonas aeruginosa
+19.77	14	0	C	28211	        Alphaproteobacteria
+19.77	14	0	O	204457	          Sphingomonadales
+19.77	14	0	F	41297	            Sphingomonadaceae
+19.77	14	0	G	13687	              Sphingomonas
+15.54	11	0	G1	196159	                unclassified Sphingomonas
+8.99	6	6	S	1517554	                  Sphingomonas sp. HMP9
+6.55	4	4	S	2565555	                  Sphingomonas sp. PAMC26645
+4.23	3	3	S	185951	                Sphingomonas aerolata
+35.21	25	0	D1	1783272	      Terrabacteria group
+18.31	13	0	P	201174	        Actinomycetota
+18.31	13	0	C	1760	          Actinomycetes
+15.49	11	0	O	85009	            Propionibacteriales
+15.49	11	0	F	31957	              Propionibacteriaceae
+15.49	11	0	G	1912216	                Cutibacterium
+15.49	11	11	S	1747	                  Cutibacterium acnes
+2.82	2	0	O	85007	            Mycobacteriales
+2.82	2	0	F	1653	              Corynebacteriaceae
+2.82	2	0	G	1716	                Corynebacterium
+2.82	2	2	S	161879	                  Corynebacterium kroppenstedtii
+16.90	12	0	P	1239	        Bacillota
+16.90	12	0	C	91061	          Bacilli
+11.53	8	0	O	186826	            Lactobacillales
+11.53	8	0	F	33958	              Lactobacillaceae
+11.53	8	0	G	2742598	                Limosilactobacillus
+11.53	8	8	S	1613	                  Limosilactobacillus fermentum
+5.37	3	0	O	1385	            Bacillales
+5.37	3	0	F	186817	              Bacillaceae
+5.37	3	0	G	1386	                Bacillus
+5.37	3	0	G1	653685	                  Bacillus subtilis group
+5.37	3	3	S	96241	                    Bacillus spizizenii

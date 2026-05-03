@@ -1,0 +1,105 @@
+100.00	6272	0	R	1	root
+100.00	6272	0	R1	131567	  cellular organisms
+95.89	6014	0	D	2759	    Eukaryota
+95.89	6014	0	D1	33154	      Opisthokonta
+95.89	6014	0	K	33208	        Metazoa
+95.89	6014	0	K1	6072	          Eumetazoa
+95.89	6014	0	K2	33213	            Bilateria
+95.89	6014	0	K3	33511	              Deuterostomia
+95.89	6014	0	P	7711	                Chordata
+95.89	6014	0	P1	89593	                  Craniata
+95.89	6014	0	P2	7742	                    Vertebrata
+95.89	6014	0	P3	7776	                      Gnathostomata
+95.89	6014	0	P4	117570	                        Teleostomi
+95.89	6014	0	P5	117571	                          Euteleostomi
+95.89	6014	0	P6	8287	                            Sarcopterygii
+95.89	6014	0	P7	1338369	                              Dipnotetrapodomorpha
+95.89	6014	0	P8	32523	                                Tetrapoda
+95.89	6014	0	P9	32524	                                  Amniota
+95.89	6014	0	C	40674	                                    Mammalia
+95.89	6014	0	C1	32525	                                      Theria
+95.89	6014	0	C2	9347	                                        Eutheria
+95.89	6014	0	C3	1437010	                                          Boreoeutheria
+95.89	6014	0	C4	314146	                                            Euarchontoglires
+95.89	6014	0	O	9443	                                              Primates
+95.89	6014	0	O1	376913	                                                Haplorrhini
+95.89	6014	0	O2	314293	                                                  Simiiformes
+95.89	6014	0	O3	9526	                                                    Catarrhini
+95.89	6014	0	O4	314295	                                                      Hominoidea
+95.89	6014	0	F	9604	                                                        Hominidae
+95.89	6014	0	F1	207598	                                                          Homininae
+95.89	6014	0	G	9605	                                                            Homo
+95.89	6014	6014	S	9606	                                                              Homo sapiens
+4.11	258	0	D	2	    Bacteria
+2.57	161	0	D1	1783270	      FCB group
+2.57	161	0	D2	68336	        Bacteroidota/Chlorobiota group
+2.57	161	0	P	976	          Bacteroidota
+2.57	161	0	C	200643	            Bacteroidia
+2.57	161	0	O	171549	              Bacteroidales
+2.52	157	0	F	171552	                Prevotellaceae
+2.40	150	0	G	838	                  Prevotella
+1.77	110	110	S	28135	                    Prevotella oris
+0.43	27	27	S	28133	                    Prevotella nigrescens
+0.11	6	6	S	28131	                    Prevotella intermedia
+0.04	2	2	S	28132	                    Prevotella melaninogenica
+0.04	2	2	S	28129	                    Prevotella denticola
+0.12	7	0	G	2974257	                  Hoylesella
+0.12	7	7	S	76123	                    Hoylesella enoeca
+0.05	3	0	F	171551	                Porphyromonadaceae
+0.05	3	0	G	836	                  Porphyromonas
+0.05	3	3	S	837	                    Porphyromonas gingivalis
+1.49	93	0	D1	1783272	      Terrabacteria group
+1.02	64	0	P	1239	        Bacillota
+0.71	44	0	C	91061	          Bacilli
+0.67	42	0	O	186826	            Lactobacillales
+0.57	35	0	F	33958	              Lactobacillaceae
+0.53	33	0	G	1578	                Lactobacillus
+0.53	33	33	S	227945	                  Lactobacillus ultunensis
+0.04	2	0	G	2742598	                Limosilactobacillus
+0.04	2	2	S	104955	                  Limosilactobacillus frumenti
+0.11	6	0	F	1300	              Streptococcaceae
+0.11	6	0	G	1301	                Streptococcus
+0.11	6	6	S	1303	                  Streptococcus oralis
+0.04	2	0	O	1385	            Bacillales
+0.04	2	0	F	90964	              Staphylococcaceae
+0.04	2	0	G	1279	                Staphylococcus
+0.04	2	2	S	1282	                  Staphylococcus epidermidis
+0.17	10	0	C	186801	          Clostridia
+0.17	10	0	O	186802	            Eubacteriales
+0.17	10	0	F	31979	              Clostridiaceae
+0.17	10	0	G	1485	                Clostridium
+0.17	10	10	S	1491	                  Clostridium botulinum
+0.08	5	0	C	1737404	          Tissierellia
+0.08	5	0	O	1737405	            Tissierellales
+0.08	5	0	F	1570339	              Peptoniphilaceae
+0.08	5	0	G	543311	                Parvimonas
+0.08	5	5	S	33033	                  Parvimonas micra
+0.05	3	0	C	909932	          Negativicutes
+0.05	3	0	O	1843489	            Veillonellales
+0.05	3	0	F	31977	              Veillonellaceae
+0.05	3	0	G	29465	                Veillonella
+0.05	3	3	S	29466	                  Veillonella parvula
+0.47	29	0	P	201174	        Actinomycetota
+0.47	29	0	C	1760	          Actinomycetes
+0.31	19	0	O	85009	            Propionibacteriales
+0.31	19	0	F	31957	              Propionibacteriaceae
+0.31	19	0	G	1912216	                Cutibacterium
+0.31	19	19	S	1747	                  Cutibacterium acnes
+0.13	7	0	O	85006	            Micrococcales
+0.09	5	0	F	1268	              Micrococcaceae
+0.09	5	0	G	32207	                Rothia
+0.05	3	3	S	2047	                  Rothia dentocariosa
+0.04	2	2	S	172042	                  Rothia aeria
+0.04	2	0	F	145357	              Dermacoccaceae
+0.04	2	0	G	57495	                Dermacoccus
+0.04	2	2	S	1274	                  Dermacoccus nishinomiyaensis
+0.04	2	0	O	2037	            Actinomycetales
+0.04	2	0	F	2049	              Actinomycetaceae
+0.04	2	0	G	2529408	                Schaalia
+0.04	2	2	S	1660	                  Schaalia odontolytica
+0.05	3	0	P	1224	      Pseudomonadota
+0.05	3	0	C	28216	        Betaproteobacteria
+0.05	3	0	O	206351	          Neisseriales
+0.05	3	0	F	481	            Neisseriaceae
+0.05	3	0	G	482	              Neisseria
+0.05	3	3	S	495	                Neisseria elongata

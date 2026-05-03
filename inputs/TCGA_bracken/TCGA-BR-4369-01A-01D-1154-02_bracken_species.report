@@ -1,0 +1,112 @@
+100.00	5361	0	R	1	root
+100.00	5361	0	R1	131567	  cellular organisms
+92.54	4960	0	D	2759	    Eukaryota
+92.54	4960	0	D1	33154	      Opisthokonta
+92.54	4960	0	K	33208	        Metazoa
+92.54	4960	0	K1	6072	          Eumetazoa
+92.54	4960	0	K2	33213	            Bilateria
+92.54	4960	0	K3	33511	              Deuterostomia
+92.54	4960	0	P	7711	                Chordata
+92.54	4960	0	P1	89593	                  Craniata
+92.54	4960	0	P2	7742	                    Vertebrata
+92.54	4960	0	P3	7776	                      Gnathostomata
+92.54	4960	0	P4	117570	                        Teleostomi
+92.54	4960	0	P5	117571	                          Euteleostomi
+92.54	4960	0	P6	8287	                            Sarcopterygii
+92.54	4960	0	P7	1338369	                              Dipnotetrapodomorpha
+92.54	4960	0	P8	32523	                                Tetrapoda
+92.54	4960	0	P9	32524	                                  Amniota
+92.54	4960	0	C	40674	                                    Mammalia
+92.54	4960	0	C1	32525	                                      Theria
+92.54	4960	0	C2	9347	                                        Eutheria
+92.54	4960	0	C3	1437010	                                          Boreoeutheria
+92.54	4960	0	C4	314146	                                            Euarchontoglires
+92.54	4960	0	O	9443	                                              Primates
+92.54	4960	0	O1	376913	                                                Haplorrhini
+92.54	4960	0	O2	314293	                                                  Simiiformes
+92.54	4960	0	O3	9526	                                                    Catarrhini
+92.54	4960	0	O4	314295	                                                      Hominoidea
+92.54	4960	0	F	9604	                                                        Hominidae
+92.54	4960	0	F1	207598	                                                          Homininae
+92.54	4960	0	G	9605	                                                            Homo
+92.54	4960	4960	S	9606	                                                              Homo sapiens
+7.46	400	0	D	2	    Bacteria
+2.79	149	0	D1	1783270	      FCB group
+2.79	149	0	D2	68336	        Bacteroidota/Chlorobiota group
+2.79	149	0	P	976	          Bacteroidota
+2.62	140	0	C	117743	            Flavobacteriia
+2.62	140	0	O	200644	              Flavobacteriales
+2.62	140	0	F	49546	                Flavobacteriaceae
+2.62	140	0	G	1016	                  Capnocytophaga
+1.53	81	0	G1	2640652	                    unclassified Capnocytophaga
+1.45	77	77	S	2545799	                      Capnocytophaga sp. FDAARGOS_737
+0.08	4	4	S	1316596	                      Capnocytophaga sp. oral taxon 878
+1.09	58	58	S	327575	                    Capnocytophaga leadbetteri
+0.17	9	0	C	200643	            Bacteroidia
+0.17	9	0	O	171549	              Bacteroidales
+0.13	7	0	F	171552	                Prevotellaceae
+0.13	7	0	G	838	                  Prevotella
+0.04	2	0	G1	2638335	                    unclassified Prevotella
+0.04	2	2	S	652716	                      Prevotella sp. oral taxon 299
+0.04	2	2	S	28137	                    Prevotella veroralis
+0.05	2	2	S	28132	                    Prevotella melaninogenica
+0.04	2	0	F	815	                Bacteroidaceae
+0.04	2	0	G	909656	                  Phocaeicola
+0.04	2	2	S	821	                    Phocaeicola vulgatus
+2.42	129	0	D1	1783272	      Terrabacteria group
+2.23	119	0	P	1239	        Bacillota
+1.59	85	0	C	186801	          Clostridia
+1.59	85	0	O	186802	            Eubacteriales
+1.25	67	0	F	31979	              Clostridiaceae
+1.25	67	0	G	1485	                Clostridium
+1.25	67	67	S	1491	                  Clostridium botulinum
+0.26	13	0	F	186803	              Lachnospiraceae
+0.26	13	0	G	1164882	                Lachnoanaerobaculum
+0.21	11	11	S	2490855	                  Lachnoanaerobaculum gingivalis
+0.04	2	2	S	617123	                  Lachnoanaerobaculum umeaense
+0.08	4	0	F	186804	              Peptostreptococcaceae
+0.08	4	0	G	1849828	                Paeniclostridium
+0.08	4	4	S	1505	                  Paeniclostridium sordellii
+0.40	21	0	C	91061	          Bacilli
+0.40	21	0	O	186826	            Lactobacillales
+0.36	19	0	F	1300	              Streptococcaceae
+0.36	19	0	G	1301	                Streptococcus
+0.12	6	0	G1	671232	                  Streptococcus anginosus group
+0.12	6	6	S	1328	                    Streptococcus anginosus
+0.16	8	8	S	1303	                  Streptococcus oralis
+0.08	4	4	S	28037	                  Streptococcus mitis
+0.04	2	0	F	186828	              Carnobacteriaceae
+0.04	2	0	G	117563	                Granulicatella
+0.04	2	2	S	46124	                  Granulicatella adiacens
+0.24	12	0	C	909932	          Negativicutes
+0.24	12	0	O	1843489	            Veillonellales
+0.24	12	0	F	31977	              Veillonellaceae
+0.24	12	0	G	29465	                Veillonella
+0.24	12	12	S	29466	                  Veillonella parvula
+0.19	10	0	P	201174	        Actinomycetota
+0.19	10	0	C	1760	          Actinomycetes
+0.19	10	0	O	85009	            Propionibacteriales
+0.19	10	0	F	31957	              Propionibacteriaceae
+0.19	10	0	G	1912216	                Cutibacterium
+0.19	10	10	S	1747	                  Cutibacterium acnes
+1.98	106	0	P	32066	      Fusobacteriota
+1.98	106	0	C	203490	        Fusobacteriia
+1.98	106	0	O	203491	          Fusobacteriales
+1.82	97	0	F	203492	            Fusobacteriaceae
+1.82	97	0	G	848	              Fusobacterium
+0.87	46	46	S	851	                Fusobacterium nucleatum
+0.69	36	36	S	76857	                Fusobacterium polymorphum
+0.08	4	0	G1	2648384	                unclassified Fusobacterium
+0.08	4	4	S	671211	                  Fusobacterium sp. oral taxon 203
+0.18	9	9	S	1583098	                Fusobacterium hwasookii
+0.16	8	0	F	1129771	            Leptotrichiaceae
+0.16	8	0	G	32067	              Leptotrichia
+0.08	4	4	S	554406	                Leptotrichia hongkongensis
+0.08	4	4	S	157688	                Leptotrichia hofstadii
+0.28	14	0	P	1224	      Pseudomonadota
+0.28	14	0	C	1236	        Gammaproteobacteria
+0.28	14	0	O	135625	          Pasteurellales
+0.28	14	0	F	712	            Pasteurellaceae
+0.28	14	0	G	724	              Haemophilus
+0.20	10	10	S	727	                Haemophilus influenzae
+0.07	3	3	S	729	                Haemophilus parainfluenzae

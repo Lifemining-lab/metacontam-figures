@@ -1,0 +1,130 @@
+100.00	19591	0	R	1	root
+100.00	19591	0	R1	131567	  cellular organisms
+77.80	15242	0	D	2759	    Eukaryota
+77.80	15242	0	D1	33154	      Opisthokonta
+77.80	15242	0	K	33208	        Metazoa
+77.80	15242	0	K1	6072	          Eumetazoa
+77.80	15242	0	K2	33213	            Bilateria
+77.80	15242	0	K3	33511	              Deuterostomia
+77.80	15242	0	P	7711	                Chordata
+77.80	15242	0	P1	89593	                  Craniata
+77.80	15242	0	P2	7742	                    Vertebrata
+77.80	15242	0	P3	7776	                      Gnathostomata
+77.80	15242	0	P4	117570	                        Teleostomi
+77.80	15242	0	P5	117571	                          Euteleostomi
+77.80	15242	0	P6	8287	                            Sarcopterygii
+77.80	15242	0	P7	1338369	                              Dipnotetrapodomorpha
+77.80	15242	0	P8	32523	                                Tetrapoda
+77.80	15242	0	P9	32524	                                  Amniota
+77.80	15242	0	C	40674	                                    Mammalia
+77.80	15242	0	C1	32525	                                      Theria
+77.80	15242	0	C2	9347	                                        Eutheria
+77.80	15242	0	C3	1437010	                                          Boreoeutheria
+77.80	15242	0	C4	314146	                                            Euarchontoglires
+77.80	15242	0	O	9443	                                              Primates
+77.80	15242	0	O1	376913	                                                Haplorrhini
+77.80	15242	0	O2	314293	                                                  Simiiformes
+77.80	15242	0	O3	9526	                                                    Catarrhini
+77.80	15242	0	O4	314295	                                                      Hominoidea
+77.80	15242	0	F	9604	                                                        Hominidae
+77.80	15242	0	F1	207598	                                                          Homininae
+77.80	15242	0	G	9605	                                                            Homo
+77.80	15242	15242	S	9606	                                                              Homo sapiens
+22.20	4349	0	D	2	    Bacteria
+19.48	3816	0	P	1224	      Pseudomonadota
+13.15	2576	0	C	28216	        Betaproteobacteria
+13.15	2576	0	O	80840	          Burkholderiales
+13.15	2576	0	F	119060	            Burkholderiaceae
+12.79	2506	0	G	106589	              Cupriavidus
+12.27	2404	2404	S	119219	                Cupriavidus metallidurans
+0.52	102	102	S	68895	                Cupriavidus basilensis
+0.34	67	0	G	48736	              Ralstonia
+0.32	62	62	S	190721	                Ralstonia insidiosa
+0.02	4	4	S	329	                Ralstonia pickettii
+0.02	3	0	G	32008	              Burkholderia
+0.02	3	0	G1	87882	                Burkholderia cepacia complex
+0.02	3	3	S	60552	                  Burkholderia vietnamiensis
+6.20	1214	0	C	28211	        Alphaproteobacteria
+5.75	1126	0	O	356	          Hyphomicrobiales
+5.62	1100	0	F	41294	            Nitrobacteraceae
+5.62	1100	0	G	374	              Bradyrhizobium
+5.53	1084	0	G1	2631580	                unclassified Bradyrhizobium
+5.46	1070	1070	S	2057741	                  Bradyrhizobium sp. SK17
+0.04	8	8	S	1566379	                  Bradyrhizobium sp. UASWS1016
+0.03	4	4	S	1325120	                  Bradyrhizobium sp. CCBAU 53421
+0.07	13	13	S	244734	                Bradyrhizobium betae
+0.01	2	2	S	2748629	                Bradyrhizobium quebecense
+0.12	24	0	F	119045	            Methylobacteriaceae
+0.11	21	0	G	407	              Methylobacterium
+0.04	7	0	G1	2615210	                unclassified Methylobacterium
+0.04	7	7	S	3038924	                  Methylobacterium sp. 391_Methyba4
+0.06	11	11	S	418223	                Methylobacterium phyllosphaerae
+0.01	2	2	S	334852	                Methylobacterium oryzae
+0.01	2	0	G	2282523	              Methylorubrum
+0.01	2	2	S	223967	                Methylorubrum populi
+0.01	2	0	O1	119042	            Hyphomicrobiales incertae sedis
+0.01	2	0	G	212791	              Enhydrobacter
+0.01	2	0	G1	2632691	                unclassified Enhydrobacter
+0.01	2	2	S	1894999	                  Enhydrobacter sp.
+0.45	88	0	O	204457	          Sphingomonadales
+0.45	88	0	F	41297	            Sphingomonadaceae
+0.34	66	0	G	165695	              Sphingobium
+0.30	58	0	G1	2611147	                unclassified Sphingobium
+0.27	53	53	S	2082188	                  Sphingobium sp. YG1
+0.03	5	5	S	2979467	                  Sphingobium sp. WTD-1
+0.04	8	8	S	13690	                Sphingobium yanoikuyae
+0.07	14	0	G	13687	              Sphingomonas
+0.07	14	0	G1	196159	                unclassified Sphingomonas
+0.05	9	9	S	2653203	                  Sphingomonas sp. CL5.1
+0.03	5	5	S	304378	                  Sphingomonas sp. IC081
+0.03	6	0	G	165696	              Novosphingobium
+0.03	6	0	G1	2644732	                unclassified Novosphingobium
+0.03	6	6	S	2571749	                  Novosphingobium sp. EMRT-2
+0.13	24	0	C	1236	        Gammaproteobacteria
+0.06	11	0	O	72274	          Pseudomonadales
+0.06	11	0	F	135621	            Pseudomonadaceae
+0.06	11	0	G	286	              Pseudomonas
+0.06	11	0	G1	136841	                Pseudomonas aeruginosa group
+0.06	11	11	S	287	                  Pseudomonas aeruginosa
+0.04	6	0	O	2887326	          Moraxellales
+0.04	6	0	F	468	            Moraxellaceae
+0.04	6	0	G	469	              Acinetobacter
+0.04	6	0	G1	909768	                Acinetobacter calcoaceticus/baumannii complex
+0.04	6	6	S	470	                  Acinetobacter baumannii
+0.02	4	0	O	135625	          Pasteurellales
+0.02	4	0	F	712	            Pasteurellaceae
+0.02	4	0	G	745	              Pasteurella
+0.02	4	4	S	747	                Pasteurella multocida
+0.01	2	0	O	91347	          Enterobacterales
+0.01	2	0	F	1903409	            Erwiniaceae
+0.01	2	0	G	53335	              Pantoea
+0.01	2	2	S	553	                Pantoea ananatis
+2.72	533	0	D1	1783272	      Terrabacteria group
+2.62	513	0	P	1239	        Bacillota
+2.62	513	0	C	91061	          Bacilli
+2.61	511	0	O	1385	            Bacillales
+2.56	502	0	F	186822	              Paenibacillaceae
+2.56	502	0	G	44249	                Paenibacillus
+2.51	491	491	S	189426	                  Paenibacillus odorifer
+0.05	10	0	G1	185978	                  unclassified Paenibacillus
+0.02	3	3	S	3047872	                    Paenibacillus sp. G2S3
+0.02	4	4	S	1980674	                    Paenibacillus sp. Cedars
+0.01	2	2	S	1536770	                    Paenibacillus sp. FSL R5-0345
+0.05	9	0	F	90964	              Staphylococcaceae
+0.05	9	0	G	1279	                Staphylococcus
+0.02	4	4	S	29385	                  Staphylococcus saprophyticus
+0.02	4	4	S	29388	                  Staphylococcus capitis
+0.01	2	0	O	186826	            Lactobacillales
+0.01	2	0	F	33958	              Lactobacillaceae
+0.01	2	0	G	1578	                Lactobacillus
+0.01	2	2	S	47770	                  Lactobacillus crispatus
+0.10	20	0	P	201174	        Actinomycetota
+0.10	20	0	C	1760	          Actinomycetes
+0.08	15	0	O	85009	            Propionibacteriales
+0.08	15	0	F	31957	              Propionibacteriaceae
+0.08	15	0	G	1912216	                Cutibacterium
+0.08	15	15	S	1747	                  Cutibacterium acnes
+0.02	4	0	O	85006	            Micrococcales
+0.02	4	0	F	1268	              Micrococcaceae
+0.02	4	0	G	32207	                Rothia
+0.02	4	4	S	43675	                  Rothia mucilaginosa

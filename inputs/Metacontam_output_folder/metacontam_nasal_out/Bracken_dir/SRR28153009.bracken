@@ -1,0 +1,589 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Moraxella catarrhalis	480	S	41457	1229	42686	0.34211
+Moraxella nonliquefaciens	478	S	16470	526	16996	0.13622
+Moraxella bovis	476	S	1111	43	1154	0.00925
+Moraxella bovoculi	386891	S	535	116	651	0.00522
+Moraxella sp. ZY171148	2904119	S	172	7	179	0.00143
+Moraxella sp. ZY190618	2904120	S	143	4	147	0.00118
+Moraxella sp. FZFQ2102	2953752	S	36	133	169	0.00135
+Moraxella osloensis	34062	S	448	36	484	0.00388
+Moraxella nasicaprae	2904122	S	342	7	349	0.00280
+Moraxella nasovis	2904121	S	161	1	162	0.00130
+Moraxella cuniculi	34061	S	144	1	145	0.00116
+Moraxella ovis	29433	S	142	60	202	0.00162
+Psychrobacter sp. WB2	3043330	S	93	16	109	0.00087
+Psychrobacter sp. DAB_AL43B	1028416	S	57	3	60	0.00048
+Psychrobacter sp. P11F6	1699621	S	46	23	69	0.00055
+Psychrobacter sp. SC65A.3	2983299	S	36	99	135	0.00108
+Psychrobacter sp. P11G3	1699623	S	36	9	45	0.00036
+Psychrobacter sp. 28M-43	2772254	S	26	6	32	0.00026
+Psychrobacter sp. PraFG1	2565531	S	24	45	69	0.00055
+Psychrobacter sp. KCTC 72983	2733866	S	22	53	75	0.00060
+Psychrobacter sp. WY6	2708350	S	16	7	23	0.00018
+Psychrobacter sp. YP14	2203895	S	16	35	51	0.00041
+Psychrobacter sp. G	571800	S	14	42	56	0.00045
+Psychrobacter sp. P2G3	1699622	S	12	24	36	0.00029
+Psychrobacter sp. KH172YL61	2517899	S	12	68	80	0.00064
+Psychrobacter sp. P11G5	1699624	S	9	18	27	0.00022
+Psychrobacter sp. 4Dc	888437	S	3	30	33	0.00026
+Psychrobacter sp. AntiMn-1	1720344	S	2	15	17	0.00014
+Psychrobacter arenosus	256326	S	106	2	108	0.00087
+Psychrobacter sanguinis	861445	S	103	29	132	0.00106
+Psychrobacter urativorans	45610	S	99	7	106	0.00085
+Psychrobacter arcticus	334543	S	44	4	48	0.00038
+Psychrobacter cryohalolentis	330922	S	9	30	39	0.00031
+Acinetobacter sp. 10FS3-1	2563897	S	21	16	37	0.00030
+Acinetobacter sp. SCLZS86	2908637	S	15	15	30	0.00024
+Acinetobacter sp. Marseille-Q1620	2714110	S	15	0	15	0.00012
+Acinetobacter sp. C16S1	2609668	S	11	4	15	0.00012
+Acinetobacter sp. TGL-Y2	1407071	S	10	0	10	0.00008
+Acinetobacter sp. TTH0-4	1646498	S	10	1	11	0.00009
+Acinetobacter sp. CS-2	2798861	S	9	4	13	0.00010
+Acinetobacter sp. C32I	2950074	S	9	1	10	0.00008
+Acinetobacter sp. NCu2D-2	1608473	S	8	1	9	0.00007
+Acinetobacter sp. WCHA55	2004646	S	8	6	14	0.00011
+Acinetobacter sp. YH12138	2601122	S	6	17	23	0.00018
+Acinetobacter sp. WCHA45	2004644	S	6	9	15	0.00012
+Acinetobacter sp. ASP199	2773709	S	4	0	4	0.00003
+Acinetobacter sp. Z1	2953738	S	4	0	4	0.00003
+Acinetobacter sp. PK01	2930198	S	3	6	9	0.00007
+Acinetobacter sp. LoGeW2-3	1808001	S	3	0	3	0.00002
+Acinetobacter sp. YH16040_T	2929512	S	3	8	11	0.00009
+Acinetobacter sp. GSS19	3020716	S	3	0	3	0.00002
+Acinetobacter sp. KCTC 92772	3045147	S	3	0	3	0.00002
+Acinetobacter sp. MYb10	1827285	S	2	3	5	0.00004
+Acinetobacter sp. ESL0695	2983215	S	2	0	2	0.00002
+Acinetobacter calcoaceticus	471	S	12	1	13	0.00010
+Acinetobacter pittii	48296	S	8	17	25	0.00020
+Acinetobacter seifertii	1530123	S	7	2	9	0.00007
+Acinetobacter nosocomialis	106654	S	6	3	9	0.00007
+Acinetobacter baumannii	470	S	3	19	22	0.00018
+Acinetobacter johnsonii	40214	S	35	36	71	0.00057
+Acinetobacter lwoffii	28090	S	16	42	58	0.00046
+Acinetobacter larvae	1789224	S	15	0	15	0.00012
+Acinetobacter schindleri	108981	S	14	5	19	0.00015
+Acinetobacter wanghuae	2662362	S	13	0	13	0.00010
+Acinetobacter piscicola	2006115	S	13	4	17	0.00014
+Acinetobacter soli	487316	S	12	1	13	0.00010
+Acinetobacter colistiniresistens	280145	S	11	1	12	0.00010
+Acinetobacter indicus	756892	S	10	3	13	0.00010
+Acinetobacter tandoii	202954	S	9	0	9	0.00007
+Acinetobacter lanii	2715163	S	7	0	7	0.00006
+Acinetobacter vivianii	1776742	S	7	0	7	0.00006
+Acinetobacter cumulans	2136182	S	6	1	7	0.00006
+Acinetobacter shaoyimingii	2715164	S	6	0	6	0.00005
+Acinetobacter baylyi	202950	S	6	0	6	0.00005
+Acinetobacter junii	40215	S	6	1	7	0.00006
+Acinetobacter portensis	1839785	S	5	3	8	0.00006
+Acinetobacter ursingii	108980	S	5	9	14	0.00011
+Acinetobacter tibetensis	2943497	S	4	0	4	0.00003
+Acinetobacter towneri	202956	S	4	7	11	0.00009
+Acinetobacter bouvetii	202951	S	4	0	4	0.00003
+Acinetobacter venetianus	52133	S	4	1	5	0.00004
+Acinetobacter equi	1324350	S	3	0	3	0.00002
+Acinetobacter guillouiae	106649	S	3	2	5	0.00004
+Acinetobacter defluvii	1871111	S	3	1	4	0.00003
+Acinetobacter wuhouensis	1879050	S	2	0	2	0.00002
+Acinetobacter variabilis	70346	S	2	2	4	0.00003
+Haemophilus influenzae	727	S	36276	8260	44536	0.35694
+Haemophilus haemolyticus	726	S	360	23	383	0.00307
+Haemophilus parahaemolyticus	735	S	324	7	331	0.00265
+Haemophilus parainfluenzae	729	S	157	6	163	0.00131
+Haemophilus sp. oral taxon 036	712310	S	62	5	67	0.00054
+Haemophilus aegyptius	197575	S	18	54	72	0.00058
+[Haemophilus] ducreyi	730	S	9	0	9	0.00007
+Haemophilus pittmaniae	249188	S	8	0	8	0.00006
+Mannheimia bovis	2770636	S	16	6	22	0.00018
+Mannheimia haemolytica	75985	S	9	1	10	0.00008
+Mannheimia granulomatis	85402	S	6	0	6	0.00005
+Mannheimia varigena	85404	S	3	0	3	0.00002
+Mannheimia sp. USDA-ARS-USMARC-1261	1432056	S	2	1	3	0.00002
+Pasteurella multocida	747	S	21	4	25	0.00020
+Pasteurella canis	753	S	13	0	13	0.00010
+Pasteurella skyensis	97481	S	6	0	6	0.00005
+Gallibacterium anatis	750	S	16	0	16	0.00013
+Gallibacterium salpingitidis	505341	S	4	0	4	0.00003
+Aggregatibacter sp. Marseille-P9115	2866570	S	3	0	3	0.00002
+Aggregatibacter sp. oral taxon 513	712150	S	2	0	2	0.00002
+Aggregatibacter sp. 2125159857	2820817	S	2	0	2	0.00002
+Aggregatibacter aphrophilus	732	S	6	0	6	0.00005
+Aggregatibacter actinomycetemcomitans	714	S	5	0	5	0.00004
+Avibacterium volantium	762	S	7	1	8	0.00006
+Avibacterium sp. 20-132	2911526	S	2	4	6	0.00005
+Avibacterium paragallinarum	728	S	3	0	3	0.00002
+Actinobacillus pleuropneumoniae	715	S	3	10	13	0.00010
+Actinobacillus porcitonsillarum	189834	S	2	0	2	0.00002
+Glaesserella parasuis	738	S	7	1	8	0.00006
+Glaesserella sp. 15-184	2030797	S	2	0	2	0.00002
+Mergibacter septicus	221402	S	10	0	10	0.00008
+Bibersteinia trehalosi	47735	S	3	22	25	0.00020
+Bisgaardia hudsonensis	109472	S	2	0	2	0.00002
+Alteromonas macleodii	28108	S	11	6	17	0.00014
+Alteromonas sp. RKMC-009	2267264	S	3	2	5	0.00004
+Alteromonas naphthalenivorans	715451	S	3	4	7	0.00006
+Salinimonas iocasae	2572577	S	4	1	5	0.00004
+Salinimonas sediminis	2303538	S	2	0	2	0.00002
+Salinimonas marina	2785918	S	2	0	2	0.00002
+Paraglaciecola sp. L1A13	2686359	S	10	0	10	0.00008
+Paraglaciecola sp. L3A3	2686358	S	3	0	3	0.00002
+Paraglaciecola sp. T6c	3042615	S	2	0	2	0.00002
+Paraglaciecola mesophila	197222	S	3	0	3	0.00002
+Agarivorans aestuarii	1563703	S	4	1	5	0.00004
+Agarivorans gilvus	680279	S	3	0	3	0.00002
+Agarivorans sp. B2Z047	2652721	S	2	1	3	0.00002
+Alkalimarinus sediminis	1632866	S	7	0	7	0.00006
+Alkalimarinus sp. A2M4	2961619	S	2	0	2	0.00002
+Alkalimarinus coralli	2935863	S	2	0	2	0.00002
+Glaciecola nitratireducens	300231	S	3	0	3	0.00002
+Catenovulum sediminis	1740262	S	3	0	3	0.00002
+Pseudoalteromonas sp. SCSIO 43095	2894202	S	7	10	17	0.00014
+Pseudoalteromonas rhizosphaerae	2518973	S	8	6	14	0.00011
+Pseudoalteromonas luteoviolacea	43657	S	5	0	5	0.00004
+Pseudoalteromonas ostreae	2774154	S	4	1	5	0.00004
+Pseudoalteromonas agarivorans	176102	S	3	7	10	0.00008
+Pseudoalteromonas phenolica	161398	S	3	0	3	0.00002
+Pseudoalteromonas piratica	1348114	S	2	0	2	0.00002
+Pseudoalteromonas carrageenovora	227	S	2	0	2	0.00002
+Pseudoalteromonas tunicata	314281	S	2	0	2	0.00002
+Pseudoalteromonas aliena	247523	S	2	0	2	0.00002
+Psychrosphaera aestuarii	1266052	S	2	0	2	0.00002
+Shewanella sp. Scap07	2589987	S	3	0	3	0.00002
+Shewanella sp. OMA3-2	2908650	S	2	0	2	0.00002
+Shewanella sp. FJAT-51649	2864210	S	2	6	8	0.00006
+Shewanella sediminis	271097	S	3	0	3	0.00002
+Shewanella cyperi	2814292	S	2	2	4	0.00003
+Shewanella benthica	43661	S	2	0	2	0.00002
+Shewanella amazonensis	60478	S	2	0	2	0.00002
+Shewanella woodyi	60961	S	2	0	2	0.00002
+Shewanella inventionis	1738770	S	2	2	4	0.00003
+Shewanella psychrotolerans	2864206	S	2	0	2	0.00002
+Parashewanella tropica	2547970	S	8	1	9	0.00007
+Parashewanella spongiae	342950	S	3	0	3	0.00002
+Litorilituus sediminis	718192	S	11	0	11	0.00009
+Cognaticolwellia beringensis	1967665	S	4	0	4	0.00003
+Idiomarina abyssalis	86102	S	9	0	9	0.00007
+Idiomarina piscisalsi	1096243	S	3	0	3	0.00002
+Moritella marina	90736	S	5	1	6	0.00005
+Moritella sp. 24	2746230	S	3	0	3	0.00002
+Psychromonas ingrahamii	357794	S	5	0	5	0.00004
+Escherichia coli	562	S	11	16	27	0.00022
+Escherichia sp. E4742	2044467	S	2	0	2	0.00002
+secondary endosymbiont of Heteropsylla cubana	134287	S	6	0	6	0.00005
+Candidatus Hamiltonella defensa	138072	S	3	0	3	0.00002
+Candidatus Blochmannia vicinus	251540	S	2	0	2	0.00002
+Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus	1505597	S	2	0	2	0.00002
+Enterobacter hormaechei	158836	S	4	11	15	0.00012
+Klebsiella pneumoniae	573	S	4	57	61	0.00049
+Salmonella enterica	28901	S	9	28	37	0.00030
+Citrobacter braakii	57706	S	3	4	7	0.00006
+Cronobacter sakazakii	28141	S	3	0	3	0.00002
+Cronobacter muytjensii	413501	S	3	2	5	0.00004
+Plesiomonas shigelloides	703	S	6	0	6	0.00005
+Shimwellia blattae	563	S	4	0	4	0.00003
+Lelliottia amnigena	61646	S	4	0	4	0.00003
+Enterobacteriaceae endosymbiont of Donacia semicuprea	2675783	S	2	0	2	0.00002
+Kluyvera intermedia	61648	S	3	0	3	0.00002
+Candidatus Moranella endobia	1048758	S	2	0	2	0.00002
+Providencia rettgeri	587	S	5	8	13	0.00010
+Providencia alcalifaciens	126385	S	5	0	5	0.00004
+Providencia sneebia	516075	S	3	0	3	0.00002
+Providencia heimbachae	333962	S	2	0	2	0.00002
+Proteus mirabilis	584	S	4	0	4	0.00003
+Proteus vulgaris	585	S	3	2	5	0.00004
+Proteus terrae	1574161	S	2	10	12	0.00010
+Photorhabdus thracensis	230089	S	6	0	6	0.00005
+Photorhabdus asymbiotica	291112	S	2	0	2	0.00002
+Xenorhabdus nematophila	628	S	6	0	6	0.00005
+Yersinia rohdei	29485	S	6	0	6	0.00005
+Yersinia intermedia	631	S	3	6	9	0.00007
+Serratia marcescens	615	S	3	0	3	0.00002
+Serratia proteamaculans	28151	S	2	0	2	0.00002
+Serratia sp. CMO1	2785630	S	2	2	4	0.00003
+Nissabacter sp. SGAir0207	2126321	S	3	0	3	0.00002
+Erwinia tasmaniensis	338565	S	5	4	9	0.00007
+Candidatus Erwinia haradaeae	1922217	S	3	0	3	0.00002
+Pantoea ananatis	553	S	3	0	3	0.00002
+Buchnera aphidicola	9	S	3	0	3	0.00002
+Pectobacterium aroidearum	1201031	S	3	0	3	0.00002
+Pectobacterium odoriferum	78398	S	2	0	2	0.00002
+Pectobacterium sp. A5351	2914983	S	2	0	2	0.00002
+Hafnia alvei	569	S	5	0	5	0.00004
+Obesumbacterium proteus	82983	S	2	0	2	0.00002
+Vibrio sp. SCSIO 43136	2819101	S	5	0	5	0.00004
+Vibrio sp. SCSIO 43135	2819096	S	3	0	3	0.00002
+Vibrio sp. DW001	2912315	S	2	2	4	0.00003
+Vibrio sp. THAF190c	2587865	S	2	0	2	0.00002
+Vibrio parahaemolyticus	670	S	9	2	11	0.00009
+Vibrio campbellii	680	S	2	3	5	0.00004
+Vibrio natriegens	691	S	2	4	6	0.00005
+Vibrio mimicus	674	S	7	2	9	0.00007
+Vibrio ponticus	265668	S	6	0	6	0.00005
+Vibrio metoecus	1481663	S	4	3	7	0.00006
+Vibrio navarrensis	29495	S	4	1	5	0.00004
+Vibrio vulnificus	672	S	3	0	3	0.00002
+Vibrio tritonius	1435069	S	3	0	3	0.00002
+Vibrio tarriae	2014742	S	3	6	9	0.00007
+Vibrio aestuarianus	28171	S	3	0	3	0.00002
+Vibrio gangliei	2077090	S	3	0	3	0.00002
+Vibrio zhugei	2479546	S	3	0	3	0.00002
+Vibrio porteresiae	435912	S	2	0	2	0.00002
+Vibrio aphrogenes	1891186	S	2	0	2	0.00002
+Vibrio plantisponsor	664643	S	2	0	2	0.00002
+Vibrio rumoiensis	76258	S	2	0	2	0.00002
+Vibrio ostreae	2841925	S	2	6	8	0.00006
+Vibrio cholerae	666	S	2	2	4	0.00003
+Salinivibrio kushneri	1908198	S	8	8	16	0.00013
+Photobacterium damselae	38293	S	7	2	9	0.00007
+Photobacterium atrarenae	865757	S	2	0	2	0.00002
+Candidatus Enterovibrio luxaltus	1927128	S	7	0	7	0.00006
+Grimontia hollisae	673	S	2	0	2	0.00002
+Pseudomonas sp. C27(2019)	2604941	S	7	0	7	0.00006
+Pseudomonas sp. B21-053	2895493	S	6	1	7	0.00006
+Pseudomonas sp. MPDS	2762896	S	5	22	27	0.00022
+Pseudomonas sp. gcc21	2726989	S	4	0	4	0.00003
+Pseudomonas sp. SL4(2022)	2994661	S	3	0	3	0.00002
+Pseudomonas sp. LS.1a	2920387	S	2	0	2	0.00002
+Pseudomonas sp. PSE14	3016341	S	2	0	2	0.00002
+Pseudomonas sp. DG56-2	2320270	S	2	0	2	0.00002
+Pseudomonas syringae	317	S	5	1	6	0.00005
+Pseudomonas syringae group genomosp. 7	251699	S	2	0	2	0.00002
+Pseudomonas fluorescens	294	S	5	3	8	0.00006
+Pseudomonas hydrolytica	2493633	S	5	7	12	0.00010
+Pseudomonas marincola	437900	S	4	0	4	0.00003
+Pseudomonas aeruginosa	287	S	3	11	14	0.00011
+Pseudomonas knackmussii	65741	S	2	0	2	0.00002
+Pseudomonas saudiphocaensis	1499686	S	2	0	2	0.00002
+Entomomonas moraniae	2213226	S	4	2	6	0.00005
+Halopseudomonas sabulinigri	472181	S	3	2	5	0.00004
+Thiopseudomonas alkaliphila	1697053	S	3	0	3	0.00002
+Marinobacter sp. LV10R510-11A	1415568	S	2	0	2	0.00002
+Marinobacter salinus	1874317	S	4	0	4	0.00003
+Marinobacter psychrophilus	330734	S	3	0	3	0.00002
+Marinomonas posidonica	936476	S	10	2	12	0.00010
+Marinomonas sp. CT5	2066133	S	9	0	9	0.00007
+Marinomonas primoryensis	178399	S	6	1	7	0.00006
+Marinomonas algicola	2773454	S	5	0	5	0.00004
+Marinomonas profundi	2726122	S	3	1	4	0.00003
+Bacterioplanoides sp. SCSIO 12839	2829569	S	3	0	3	0.00002
+Marinobacterium sediminicola	518898	S	2	0	2	0.00002
+Bermanella marisrubri	207949	S	2	0	2	0.00002
+Halomonas sp. TD01	999141	S	3	8	11	0.00009
+Halomonas subglaciescola	29571	S	3	0	3	0.00002
+Pistricoccus aurantiacus	1883414	S	4	0	4	0.00003
+Kushneria konosiri	698828	S	2	0	2	0.00002
+Endozoicomonas sp. GU-1	3009078	S	4	0	4	0.00003
+Endozoicomonas sp. SCSIO W0465	2918516	S	3	0	3	0.00002
+Ketobacter alkanivorans	1917421	S	4	0	4	0.00003
+Reinekea forsetii	1336806	S	3	0	3	0.00002
+Gynuella sunshinyii	1445505	S	2	0	2	0.00002
+Oleiphilus messinensis	141451	S	4	0	4	0.00003
+Spongiibacter sp. IMCC21906	1620392	S	12	0	12	0.00010
+Spongiibacter taiwanensis	1748242	S	2	0	2	0.00002
+Oceanicoccus sagamiensis	716816	S	4	0	4	0.00003
+Zhongshania aliphaticivorans	1470434	S	3	0	3	0.00002
+Cellvibrio japonicus	155077	S	4	2	6	0.00005
+Saccharophagus degradans	86304	S	2	0	2	0.00002
+Simiduia agarivorans	447471	S	2	0	2	0.00002
+Agarilytica rhodophyticola	1737490	S	2	0	2	0.00002
+Microbulbifer sp. MLAF003	3032582	S	3	0	3	0.00002
+Microbulbifer sp. ALW1	1516059	S	2	0	2	0.00002
+Microbulbifer hydrolyticus	48074	S	2	0	2	0.00002
+Thiomicrorhabdus sediminis	2580412	S	7	1	8	0.00006
+Thiomicrorhabdus sp. XGS-01	2949997	S	4	0	4	0.00003
+Thiomicrospira cyclica	147268	S	4	0	4	0.00003
+Piscirickettsia salmonis	1238	S	4	0	4	0.00003
+Methylophaga frappieri	754477	S	3	0	3	0.00002
+Cycloclasticus sp. PY97N	728003	S	2	0	2	0.00002
+Thiosulfatimonas sediminis	2675054	S	2	0	2	0.00002
+Thiothrix winogradskyi	96472	S	2	3	5	0.00004
+Legionella sp. PC997	2755562	S	3	0	3	0.00002
+Legionella sp. MW5194	2662448	S	2	0	2	0.00002
+Legionella sp. PC1000	2746060	S	2	0	2	0.00002
+Legionella cardiaca	1071983	S	5	0	5	0.00004
+Legionella antarctica	2708020	S	4	0	4	0.00003
+Legionella pneumophila	446	S	4	0	4	0.00003
+Legionella fallonii	96230	S	3	0	3	0.00002
+Legionella micdadei	451	S	2	0	2	0.00002
+Legionella clemsonensis	1867846	S	2	0	2	0.00002
+Legionella oakridgensis	29423	S	2	0	2	0.00002
+Legionella geestiana	45065	S	2	0	2	0.00002
+Coxiella endosymbiont of Amblyomma sculptum	2487929	S	3	1	4	0.00003
+Coxiella burnetii	777	S	2	0	2	0.00002
+Aeromonas veronii	654	S	3	3	6	0.00005
+Aeromonas salmonicida	645	S	2	0	2	0.00002
+Aeromonas hydrophila	644	S	2	2	4	0.00003
+Oceanisphaera profunda	1416627	S	12	0	12	0.00010
+Pseudohongiella spirulinae	1249552	S	10	0	10	0.00008
+Bathymodiolus septemdierum thioautotrophic gill symbiont	113267	S	3	0	3	0.00002
+Candidatus Thioglobus autotrophicus	1705394	S	3	0	3	0.00002
+Candidatus Steffania adelgidicola	1076626	S	3	0	3	0.00002
+Nitrosococcus halophilus	133539	S	4	0	4	0.00003
+Nitrosococcus watsonii	473531	S	2	0	2	0.00002
+Rheinheimera mangrovi	2498451	S	5	0	5	0.00004
+Candidatus Nitrosacidococcus sp. I8	2942908	S	2	0	2	0.00002
+Halorhodospira halochloris	1052	S	2	0	2	0.00002
+Methylomonas methanica	421	S	2	0	2	0.00002
+Methylomonas sp. EFPC3	3021710	S	2	0	2	0.00002
+Methylovulum psychrotolerans	1704499	S	3	0	3	0.00002
+Methylogaea oryzae	1295382	S	2	0	2	0.00002
+Xanthomonas sp. GW	2724121	S	2	1	3	0.00002
+Xylella fastidiosa	2371	S	2	1	3	0.00002
+Suttonella sp. R2A3	2908648	S	6	0	6	0.00005
+Wohlfahrtiimonas chitiniclastica	400946	S	3	0	3	0.00002
+Gilliamella sp. B3022	2817969	S	5	0	5	0.00004
+Gilliamella sp. ESL0443	2704655	S	2	0	2	0.00002
+Kangiella profundi	1561924	S	5	0	5	0.00004
+Acidiferrobacter sp. SPIII_3	1281578	S	4	0	4	0.00003
+Flagellatimonas centrodinii	2806210	S	4	0	4	0.00003
+Abyssogena phaseoliformis symbiont	596095	S	3	0	3	0.00002
+Neisseria flavescens	484	S	368	82	450	0.00361
+Neisseria subflava	28449	S	359	62	421	0.00337
+Neisseria meningitidis	487	S	104	62	166	0.00133
+Neisseria sp. Marseille-Q5346	2972775	S	27	7	34	0.00027
+Neisseria sp. Marseille-Q6792	2937985	S	18	6	24	0.00019
+Neisseria sp. ZJ785	2709396	S	13	0	13	0.00010
+Neisseria sp. RH3002v2g	1871109	S	11	4	15	0.00012
+Neisseria sp. KEM232	655307	S	6	0	6	0.00005
+Neisseria sp. oral taxon 014	641148	S	4	0	4	0.00003
+Neisseria sp. ZJ106	2912188	S	3	0	3	0.00002
+Neisseria lactamica	486	S	39	13	52	0.00042
+Neisseria mucosa	488	S	18	9	27	0.00022
+Neisseria gonorrhoeae	485	S	15	2	17	0.00014
+Neisseria polysaccharea	489	S	15	7	22	0.00018
+Neisseria cinerea	483	S	10	1	11	0.00009
+Neisseria animalis	492	S	9	0	9	0.00007
+Neisseria sicca	490	S	6	1	7	0.00006
+Neisseria elongata	495	S	5	0	5	0.00004
+Neisseria weaveri	28091	S	5	0	5	0.00004
+Neisseria zalophi	640030	S	3	0	3	0.00002
+Neisseria dentiae	194197	S	3	0	3	0.00002
+Neisseria macacae	496	S	3	1	4	0.00003
+Neisseria canis	493	S	2	0	2	0.00002
+Neisseria chenwenguii	1853278	S	2	0	2	0.00002
+Neisseria weixii	1853276	S	2	0	2	0.00002
+Alysiella crassa	153491	S	9	1	10	0.00008
+Alysiella filiformis	194196	S	5	0	5	0.00004
+Kingella denitrificans	502	S	5	0	5	0.00004
+Kingella kingae	504	S	5	5	10	0.00008
+Wielerella bovis	2917790	S	9	0	9	0.00007
+Vitreoscilla massiliensis	1689272	S	5	1	6	0.00005
+Simonsiella muelleri	72	S	6	0	6	0.00005
+Eikenella corrodens	539	S	3	1	4	0.00003
+Uruburuella testudinis	1282863	S	4	0	4	0.00003
+Paralysiella testudinis	2809020	S	3	0	3	0.00002
+Conchiformibius steedae	153493	S	2	0	2	0.00002
+Laribacter hongkongensis	168471	S	4	1	5	0.00004
+Aquitalea sp. USM4	1590041	S	4	0	4	0.00003
+Deefgea piscis	2739061	S	3	0	3	0.00002
+Iodobacter ciconiae	2496266	S	2	0	2	0.00002
+Polynucleobacter sp. MG-6-Vaara-E2	2576932	S	3	4	7	0.00006
+Polynucleobacter sp. MWH-CaK5	2689107	S	3	0	3	0.00002
+Polynucleobacter sp. MWH-Braz-FAM2G	1855883	S	2	1	3	0.00002
+Polynucleobacter sp. MWH-Spelu-300-X4	2689109	S	2	0	2	0.00002
+Polynucleobacter yangtzensis	1743159	S	7	2	9	0.00007
+Polynucleobacter necessarius	576610	S	5	0	5	0.00004
+Polynucleobacter antarcticus	1743162	S	4	0	4	0.00003
+Polynucleobacter difficilis	556054	S	2	0	2	0.00002
+Chitinimonas koreensis	356302	S	5	0	5	0.00004
+Chitinimonas arctica	2594795	S	3	0	3	0.00002
+Burkholderia pyrrocinia	60550	S	3	0	3	0.00002
+Ephemeroptericola cinctiostellae	2268024	S	4	0	4	0.00003
+Candidatus Vallotia tarda	1177213	S	2	0	2	0.00002
+Rhodoferax sp. MIZ03	2798804	S	10	0	10	0.00008
+Rhodoferax sp. AJA081-3	2752316	S	6	0	6	0.00005
+Rhodoferax ferrireducens	192843	S	6	0	6	0.00005
+Variovorax paradoxus	34073	S	8	0	8	0.00006
+Comamonas kerstersii	225992	S	4	0	4	0.00003
+Limnohabitans sp. 63ED37-2	1678128	S	2	0	2	0.00002
+Acidovorax sp. KKS102	358220	S	2	0	2	0.00002
+Polaromonas vacuolata	37448	S	2	0	2	0.00002
+Paenalcaligenes hominis	643674	S	4	0	4	0.00003
+Taylorella equigenitalis	29575	S	3	0	3	0.00002
+Pelistega ratti	2652177	S	3	0	3	0.00002
+Oligella ureolytica	90244	S	2	0	2	0.00002
+Advenella alkanexedens	1481665	S	2	0	2	0.00002
+Undibacterium parvum	401471	S	5	0	5	0.00004
+Collimonas fungivorans	158899	S	3	0	3	0.00002
+Massilia sp. HC52	2852099	S	3	0	3	0.00002
+Paucibacter sp. KCTC 42545	1768242	S	4	0	4	0.00003
+Roseateles sp. SL47	2995138	S	3	0	3	0.00002
+Candidatus Methylopumilus universalis	2588536	S	3	0	3	0.00002
+Candidatus Methylopumilus planktonicus	1581557	S	2	0	2	0.00002
+Methylotenera mobilis	359408	S	2	0	2	0.00002
+Methylotenera versatilis	1055487	S	2	0	2	0.00002
+Sulfuriferula sp. AH1	1985873	S	5	0	5	0.00004
+Nitrosomonas stercoris	1444684	S	2	1	3	0.00002
+Azoarcus sp. DN11	356837	S	4	0	4	0.00003
+Azospira inquinata	2785627	S	2	0	2	0.00002
+Methylobacterium sp. FF17	2984843	S	22	0	22	0.00018
+Methylobacterium tardum	374432	S	3	1	4	0.00003
+Methylobacterium mesophilicum	39956	S	2	0	2	0.00002
+Methylobacterium terrae	2202827	S	2	0	2	0.00002
+Bradyrhizobium sp. BTAi1	288000	S	3	0	3	0.00002
+Bradyrhizobium sp. CB1650	3039153	S	2	0	2	0.00002
+Bradyrhizobium commune	83627	S	2	0	2	0.00002
+Bradyrhizobium cosmicum	1404864	S	2	1	3	0.00002
+Sinorhizobium mexicanum	375549	S	2	0	2	0.00002
+Devosia sp. RR2S18	3049774	S	6	0	6	0.00005
+Devosia sp. SD17-2	2976459	S	3	0	3	0.00002
+Phreatobacter sp. NMCR1094	2570229	S	4	0	4	0.00003
+Brucella anthropi	529	S	2	0	2	0.00002
+Sphingomonas sp. NIC1	1961362	S	3	2	5	0.00004
+Sphingomonas psychrotolerans	1327635	S	2	0	2	0.00002
+Sphingomonas melonis	152682	S	2	2	4	0.00003
+Sphingomonas aliaeris	2759526	S	2	0	2	0.00002
+Sphingomonas ginsengisoli An et al. 2013	363835	S	2	0	2	0.00002
+Parasphingorhabdus halotolerans	2725558	S	8	0	8	0.00006
+Altererythrobacter rubellus	2173831	S	3	0	3	0.00002
+Dinoroseobacter shibae	215813	S	2	1	3	0.00002
+Phaeobacter porticola	1844006	S	2	0	2	0.00002
+Brevundimonas sp. DS20	1532555	S	2	1	3	0.00002
+Caulobacter segnis	88688	S	2	0	2	0.00002
+Paremcibacter congregatus	2043170	S	2	0	2	0.00002
+Candidatus Nucleicultrix amoebiphila	1509244	S	2	0	2	0.00002
+Acidithiobacillus thiooxidans	930	S	3	0	3	0.00002
+Acidithiobacillus ferriphilus	1689834	S	3	0	3	0.00002
+Streptococcus pneumoniae	1313	S	5301	791	6092	0.04883
+Streptococcus mitis	28037	S	138	13	151	0.00121
+Streptococcus sp. 116-D4	2598453	S	10	0	10	0.00008
+Streptococcus sp. oral taxon 061	712623	S	8	1	9	0.00007
+Streptococcus sp. Marseille-Q6470	2972784	S	8	1	9	0.00007
+Streptococcus sp. Marseille-Q3533	2759692	S	8	0	8	0.00006
+Streptococcus sp. LPB0220	2610896	S	7	2	9	0.00007
+Streptococcus sp. HSISM1	1316408	S	5	1	6	0.00005
+Streptococcus sp. oral taxon 431	712633	S	3	0	3	0.00002
+Streptococcus sp. D7B5	3038077	S	2	1	3	0.00002
+Streptococcus oralis	1303	S	46	5	51	0.00041
+Streptococcus salivarius	1304	S	20	2	22	0.00018
+Streptococcus pseudopneumoniae	257758	S	18	3	21	0.00017
+Streptococcus toyakuensis	2819619	S	7	1	8	0.00006
+Streptococcus gwangjuense	1433513	S	7	1	8	0.00006
+Streptococcus cristatus	45634	S	7	0	7	0.00006
+Streptococcus parasanguinis	1318	S	7	0	7	0.00006
+Streptococcus intermedius	1338	S	5	1	6	0.00005
+Streptococcus thermophilus	1308	S	5	0	5	0.00004
+Streptococcus lactarius	684066	S	3	0	3	0.00002
+Streptococcus sanguinis	1305	S	3	0	3	0.00002
+Streptococcus koreensis	2382163	S	3	1	4	0.00003
+Streptococcus gordonii	1302	S	2	0	2	0.00002
+Streptococcus australis	113107	S	2	0	2	0.00002
+Streptococcus marmotae	1825069	S	2	0	2	0.00002
+Streptococcus equinus	1335	S	2	0	2	0.00002
+Dolosigranulum pigrum	29394	S	166	1	167	0.00134
+Granulicatella elegans	137732	S	18	1	19	0.00015
+Granulicatella adiacens	46124	S	5	0	5	0.00004
+Lactobacillus iners	147802	S	3	3	6	0.00005
+Lactobacillus jensenii	109790	S	2	3	5	0.00004
+Enterococcus faecalis	1351	S	2	0	2	0.00002
+Gemella haemolysans	1379	S	87	1	88	0.00071
+Gemella morbillorum	29391	S	2	0	2	0.00002
+Gemella sanguinis	84135	S	2	0	2	0.00002
+Bacillus subtilis	1423	S	4	5	9	0.00007
+Bacillus safensis	561879	S	3	0	3	0.00002
+Bacillus cereus	1396	S	2	0	2	0.00002
+Lysinibacillus sp. Ag94	2936682	S	4	1	5	0.00004
+Lysinibacillus sp. IRB4-01	2998077	S	2	2	4	0.00003
+Niallia circulans	1397	S	2	0	2	0.00002
+Staphylococcus epidermidis	1282	S	5	1	6	0.00005
+Staphylococcus hyicus	1284	S	5	1	6	0.00005
+Staphylococcus capitis	29388	S	2	0	2	0.00002
+Paenibacillus bovis	1616788	S	2	4	6	0.00005
+Brevibacillus laterosporus	1465	S	3	0	3	0.00002
+Polycladomyces abyssicola	1125966	S	3	0	3	0.00002
+Eubacterium limosum	1736	S	5	0	5	0.00004
+Acetobacterium wieringae	52694	S	5	0	5	0.00004
+Blautia liquoris	2779518	S	2	0	2	0.00002
+Enterocloster bolteae	208479	S	2	0	2	0.00002
+Clostridium sp. BNL1100	755731	S	2	1	3	0.00002
+Desulfitobacterium dehalogenans	36854	S	2	0	2	0.00002
+Desulfosporosinus youngiae	339862	S	2	0	2	0.00002
+Acetohalobium arabaticum	28187	S	2	0	2	0.00002
+Veillonella atypica	39777	S	5	0	5	0.00004
+Veillonella rogosae	423477	S	5	2	7	0.00006
+Catenibacterium mitsuokai	100886	S	2	0	2	0.00002
+Turicibacter sp. TJ11	2806443	S	2	0	2	0.00002
+endosymbiont 'TC1' of Trimyema compressum	243899	S	2	0	2	0.00002
+Corynebacterium propinquum	43769	S	124	5	129	0.00103
+Corynebacterium pseudodiphtheriticum	37637	S	102	3	105	0.00084
+Corynebacterium argentoratense	42817	S	22	0	22	0.00018
+Corynebacterium matruchotii	43768	S	5	0	5	0.00004
+Corynebacterium durum	61592	S	2	0	2	0.00002
+Corynebacterium kroppenstedtii	161879	S	2	0	2	0.00002
+Corynebacterium accolens	38284	S	2	0	2	0.00002
+Cutibacterium acnes	1747	S	67	3	70	0.00056
+Arachnia propionica	1750	S	3	0	3	0.00002
+Rothia mucilaginosa	43675	S	54	0	54	0.00043
+Rothia aeria	172042	S	3	0	3	0.00002
+Occultella kanbiaonis	2675754	S	2	0	2	0.00002
+Schaalia odontolytica	1660	S	16	0	16	0.00013
+Actinomyces pacaensis	1852377	S	3	0	3	0.00002
+Actinomyces oris	544580	S	2	1	3	0.00002
+Gleimia hominis	595468	S	3	0	3	0.00002
+Fannyhessea vaginae	82135	S	2	0	2	0.00002
+Streptomyces sp. AM 2-1-1	3028709	S	2	5	7	0.00006
+Lancefieldella parvula	1382	S	2	0	2	0.00002
+Synechococcus sp. PCC 7117	195498	S	5	2	7	0.00006
+Synechococcus sp. PCC 7502	1173263	S	2	0	2	0.00002
+Dactylococcopsis salina	292566	S	2	0	2	0.00002
+Calothrix sp. PCC 7507	99598	S	7	0	7	0.00006
+Gloeothece citriformis	2546356	S	3	0	3	0.00002
+Euhalothece natronophila	577489	S	3	0	3	0.00002
+Gloeocapsa sp. PCC 7428	1173026	S	3	0	3	0.00002
+Pseudanabaena sp. Chao 1811	2963092	S	2	0	2	0.00002
+Gloeomargarita lithophora	1188228	S	2	0	2	0.00002
+Mycoplasmopsis bovigenitalium	2112	S	2	0	2	0.00002
+Mesomycoplasma ovipneumoniae	29562	S	2	0	2	0.00002
+Spiroplasma citri	2133	S	6	0	6	0.00005
+Deinococcus wulumuqiensis	980427	S	2	0	2	0.00002
+Flavobacterium sp. N2038	2986829	S	3	0	3	0.00002
+Flavobacterium sp. N3904	2986835	S	2	0	2	0.00002
+Flavobacterium crassostreae	1763534	S	3	0	3	0.00002
+Tamlana carrageenivorans	2069432	S	2	0	2	0.00002
+Ornithobacterium rhinotracheale	28251	S	3	1	4	0.00003
+Candidatus Ornithobacterium hominis	2497989	S	3	0	3	0.00002
+Apibacter sp. ESL0404	2704651	S	2	0	2	0.00002
+Prevotella melaninogenica	28132	S	5	0	5	0.00004
+Prevotella sp. oral taxon 299	652716	S	3	0	3	0.00002
+Prevotella bryantii	77095	S	3	0	3	0.00002
+Prevotella intermedia	28131	S	2	0	2	0.00002
+Pseudoprevotella muciniphila	2133944	S	2	0	2	0.00002
+Hoylesella buccalis	28127	S	2	1	3	0.00002
+Bacteroides coprosuis	151276	S	5	1	6	0.00005
+Porphyromonas sp. oral taxon 275	712435	S	4	0	4	0.00003
+Porphyromonas gingivalis	837	S	2	0	2	0.00002
+Porphyromonas somerae	322095	S	2	0	2	0.00002
+Alkalitalea saponilacus	889453	S	2	0	2	0.00002
+Hymenobacter sediminicola	2761579	S	3	1	4	0.00003
+Algoriphagus sanaruensis	1727163	S	2	0	2	0.00002
+Algoriphagus sp. Y33	2772483	S	2	0	2	0.00002
+Cardinium endosymbiont of Encarsia pergandiella	249402	S	4	0	4	0.00003
+Reichenbachiella sp. Wsw4-B4	2979869	S	3	0	3	0.00002
+Sphingobacterium sp. G1-14	2003121	S	2	1	3	0.00002
+Sphingobacterium sp. UDSM-2020	2795738	S	2	0	2	0.00002
+Sphingobacterium daejeonense	371142	S	3	0	3	0.00002
+Mucilaginibacter sp. KACC 22063	3025666	S	2	0	2	0.00002
+Mucilaginibacter sp. KACC 22773	3025671	S	2	0	2	0.00002
+Campylobacter lari	201	S	2	5	7	0.00006
+Helicobacter sp. NHP21005	3040201	S	4	0	4	0.00003
+Helicobacter cetorum	138563	S	2	0	2	0.00002
+Helicobacter pylori	210	S	2	0	2	0.00002
+Sulfurimonas paralvinellae	317658	S	3	0	3	0.00002
+Sulfurospirillum deleyianum	65553	S	2	0	2	0.00002
+Desulfosediminicola flagellatus	2569541	S	5	0	5	0.00004
+Desulfotalea psychrophila	84980	S	2	0	2	0.00002
+Syntrophotalea acetylenivorans	1842532	S	3	0	3	0.00002
+Geotalea daltonii	1203471	S	2	0	2	0.00002
+Desulfobacter hydrogenophilus	2291	S	2	0	2	0.00002
+Treponema parvum	138851	S	3	0	3	0.00002
+Leptospira biflexa	172	S	3	0	3	0.00002
+Maioricimonas rarisocia	2528026	S	3	0	3	0.00002
+Rhodopirellula sp. P2	2127060	S	2	0	2	0.00002
+Fusobacterium mortiferum	850	S	4	0	4	0.00003
+Leptotrichia sp. oral taxon 221	712362	S	2	0	2	0.00002
+Deferribacter desulfuricans	197162	S	2	0	2	0.00002
+Homo sapiens	9606	S	3215	7	3222	0.02582
+Methanosarcina barkeri	2208	S	2	0	2	0.00002
+Thermococcus gorgonarius	71997	S	2	0	2	0.00002
+Streptococcus phage phiARI0031	1701812	S	2	34	36	0.00029
+Streptococcus phage IC1	1448276	S	2	16	18	0.00014
+Gualtarvirus mp1	2955964	S	2	0	2	0.00002

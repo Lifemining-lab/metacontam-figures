@@ -1,0 +1,77 @@
+100.00	10099	0	R	1	root
+96.33	9727	0	R1	131567	  cellular organisms
+95.99	9693	0	D	2759	    Eukaryota
+95.99	9693	0	D1	33154	      Opisthokonta
+95.99	9693	0	K	33208	        Metazoa
+95.99	9693	0	K1	6072	          Eumetazoa
+95.99	9693	0	K2	33213	            Bilateria
+95.99	9693	0	K3	33511	              Deuterostomia
+95.99	9693	0	P	7711	                Chordata
+95.99	9693	0	P1	89593	                  Craniata
+95.99	9693	0	P2	7742	                    Vertebrata
+95.99	9693	0	P3	7776	                      Gnathostomata
+95.99	9693	0	P4	117570	                        Teleostomi
+95.99	9693	0	P5	117571	                          Euteleostomi
+95.99	9693	0	P6	8287	                            Sarcopterygii
+95.99	9693	0	P7	1338369	                              Dipnotetrapodomorpha
+95.99	9693	0	P8	32523	                                Tetrapoda
+95.99	9693	0	P9	32524	                                  Amniota
+95.99	9693	0	C	40674	                                    Mammalia
+95.99	9693	0	C1	32525	                                      Theria
+95.99	9693	0	C2	9347	                                        Eutheria
+95.99	9693	0	C3	1437010	                                          Boreoeutheria
+95.99	9693	0	C4	314146	                                            Euarchontoglires
+95.99	9693	0	O	9443	                                              Primates
+95.99	9693	0	O1	376913	                                                Haplorrhini
+95.99	9693	0	O2	314293	                                                  Simiiformes
+95.99	9693	0	O3	9526	                                                    Catarrhini
+95.99	9693	0	O4	314295	                                                      Hominoidea
+95.99	9693	0	F	9604	                                                        Hominidae
+95.99	9693	0	F1	207598	                                                          Homininae
+95.99	9693	0	G	9605	                                                            Homo
+95.99	9693	9693	S	9606	                                                              Homo sapiens
+0.34	34	0	D	2	    Bacteria
+0.27	26	0	D1	1783272	      Terrabacteria group
+0.16	16	0	P	201174	        Actinomycetota
+0.16	16	0	C	1760	          Actinomycetes
+0.16	16	0	O	85009	            Propionibacteriales
+0.16	16	0	F	31957	              Propionibacteriaceae
+0.16	16	0	G	1912216	                Cutibacterium
+0.16	16	16	S	1747	                  Cutibacterium acnes
+0.11	10	0	P	1239	        Bacillota
+0.09	8	0	C	91061	          Bacilli
+0.04	4	0	O	186826	            Lactobacillales
+0.04	4	0	F	1300	              Streptococcaceae
+0.04	4	0	G	1301	                Streptococcus
+0.04	4	4	S	1314	                  Streptococcus pyogenes
+0.04	4	0	O	1385	            Bacillales
+0.04	4	0	F	90964	              Staphylococcaceae
+0.04	4	0	G	1279	                Staphylococcus
+0.04	4	4	S	1282	                  Staphylococcus epidermidis
+0.02	2	0	C	186801	          Clostridia
+0.02	2	0	O	186802	            Eubacteriales
+0.02	2	0	F	31979	              Clostridiaceae
+0.02	2	0	G	1485	                Clostridium
+0.02	2	2	S	1491	                  Clostridium botulinum
+0.07	7	0	P	1224	      Pseudomonadota
+0.07	7	0	C	1236	        Gammaproteobacteria
+0.04	3	0	O	72274	          Pseudomonadales
+0.04	3	0	F	135621	            Pseudomonadaceae
+0.04	3	0	G	286	              Pseudomonas
+0.04	3	0	G1	136843	                Pseudomonas fluorescens group
+0.04	3	3	S	76760	                  Pseudomonas rhodesiae
+0.03	3	0	O	135625	          Pasteurellales
+0.03	3	0	F	712	            Pasteurellaceae
+0.03	3	0	G	724	              Haemophilus
+0.03	3	3	S	729	                Haemophilus parainfluenzae
+3.67	371	0	D	10239	  Viruses
+3.67	371	0	D1	2731341	    Duplodnaviria
+3.67	371	0	K	2731360	      Heunggongvirae
+3.67	371	0	P	2731361	        Peploviricota
+3.67	371	0	C	2731363	          Herviviricetes
+3.67	371	0	O	548681	            Herpesvirales
+3.67	371	0	F	10292	              Herpesviridae
+3.67	371	0	F1	10357	                Betaherpesvirinae
+3.67	371	0	G	40272	                  Roseolovirus
+3.64	367	367	S	3050297	                    Roseolovirus humanbeta6b
+0.03	3	3	S	3050296	                    Roseolovirus humanbeta6a
